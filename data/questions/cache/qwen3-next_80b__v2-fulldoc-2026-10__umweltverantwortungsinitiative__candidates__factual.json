@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "question_de": "Wie viele gültige Unterschriften wurden für die Volksinitiative «Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative)» eingereicht?",
+      "evidence": [
+        {
+          "quote_de": "Die Volksinitiative «Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative)» wurde am 10. August 2021 von der Bundeskanzlei vorgeprüft und am 21. Februar 2023 mit den nötigen Unterschriften eingereicht.",
+          "page": 5
+        },
+        {
+          "quote_de": "Mit Verfügung vom 22. März 2023 stellte die Bundeskanzlei fest, dass die Initiative mit 105 940 gültigen Unterschriften zustande gekommen ist.",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Frist wurde in der Übergangsbestimmung der Initiative für die Einhaltung der planetaren Grenzen festgelegt?",
+      "evidence": [
+        {
+          "quote_de": "Gemäss der Übergangsbestimmung (Art. 197 Ziff. 13 BV) müssten Bund und Kantone dafür sorgen, dass die durch den Konsum in der Schweiz verursachte Umweltbelastung spätestens zehn Jahre nach Annahme der Initiative die planetaren Grenzen, gemessen am Bevölkerungsanteil der Schweiz, nicht mehr überschreitet.",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Bereiche wurden in der Übergangsbestimmung der Initiative als massgeblich für die Umweltbelastung genannt?",
+      "evidence": [
+        {
+          "quote_de": "Diese Bestimmung gilt namentlich in den Bereichen Klimaveränderung, Biodiversitätsverlust, Wasserverbrauch, Bodennutzung sowie Stickstoff- und Phosphoreintrag.",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Parteien und Organisationen unterstützen laut der Botschaft die Umweltverantwortungsinitiative?",
+      "evidence": [
+        {
+          "quote_de": "Unterstützt wird sie von einer breiten Allianz, unter anderem von den Jungen Grünen, den Grünen, der SP, der Juso, Greenpeace, umverkehR, Sentience Politics, Casafair, der Kleinbauernvereinigung sowie von 80 Wissenschaftlerinnen und Wissenschaftlern.",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Ziele wurden im Klimaschutzgesetz (KlG) festgelegt, das am 18. Juni 2023 durch die Stimmbevölkerung angenommen wurde?",
+      "evidence": [
+        {
+          "quote_de": "So wird das Netto-Null-Ziel 2050 bei den Treibhausgasemissionen im Inland festgelegt (Art. 3 Abs. 1 KlG). Das Gesetz hält fest, dass alle Unternehmen spätestens im Jahr 2050 Netto-Null-Emissionen aufweisen müssen (Art. 5 Abs. 1 KlG).",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen auf die Wirtschaft sah der Bundesrat bei einer Annahme der Initiative?",
+      "evidence": [
+        {
+          "quote_de": "Die Anforderungen an die Wirtschaft und insbesondere an den Primärsektor (Landwirtschaft und Rohstoffgewinnung) sowie die damit verbundenen Kosten würden bei einer Annahme der Initiative steigen.",
+          "page": 17
+        },
+        {
+          "quote_de": "Produkte und Vorleistungen für den Schweizer Markt müssten unter strengeren Voraussetzungen produziert werden als Produkte für den ausländischen Markt.",
+          "page": 17
+        },
+        {
+          "quote_de": "Dies würde vor allem KMU treffen, da diese in der Regel weniger Möglichkeiten für eine differenzierte Produktion haben.",
+          "page": 17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question_de": "Welche Ziele verfolgt die Volksinitiative «Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative)» laut der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Die Ziele der Steuergerechtigkeits-Initiative und des indirekten Gegenvorschlags (Bundesgesetz über die Individualbesteuerung) sind die zivilstandsunabhängige Besteuerung und damit auch die Abschaffung der sogenannten Heiratsstrafe, die Erhöhung der Erwerbsanreize für Zweitverdienende sowie die Verbesserung der Gleichstellung von Frau und Mann.",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "question_de": "Welche finanziellen Auswirkungen erwartet der Bundesrat bei der Einführung der Individualbesteuerung bei der direkten Bundessteuer?",
+      "evidence": [
+        {
+          "quote_de": "Der Bundesrat geht bei der direkten Bundessteuer bezogen auf das Steuerjahr 2024 von schätzungsweise rund 1 Milliarde Franken Mindereinnahmen pro Jahr aus. Davon tragen der Bund rund 800 Mio. Franken und die Kantone rund 200 Mio. Franken.",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Individualbesteuerung auf die Beschäftigung von Zweitverdienenden laut der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Die Einführung der Individualbesteuerung erhöht die Erwerbsanreize namentlich für Zweitverdienerinnen und Zweitverdiener, weil diese elastischer auf eine Veränderung der Steuerbelastung reagieren. Das grösste Potenzial für Beschäftigungseffekte besteht daher bei verheirateten Zweitverdienerinnen und Zweitverdienern.",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "question_de": "Wie sieht die Zuteilung der kinderrelevanten Abzüge bei der Individualbesteuerung laut der Botschaft aus?",
+      "evidence": [
+        {
+          "quote_de": "Kinderrelevante Abzüge werden bei der direkten Bundessteuer grundsätzlich hälftig aufgeteilt. Der Kinderabzug wird bei der direkten Bundessteuer von heute 6700 auf 12 000 Franken erhöht.",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Gründe führt der Bundesrat an, um die Volksinitiative abzulehnen und stattdessen einen indirekten Gegenvorschlag vorzulegen?",
+      "evidence": [
+        {
+          "quote_de": "Die Beseitigung der Heiratsstrafe bei der direkten Bundessteuer ist seit rund 40 Jahren pendent. Mit einer Verankerung der zivilstandsunabhängigen Besteuerung auf Verfassungsstufe gäbe es zwar für den Gesetzgeber einen verbindlichen Richtungsentscheid. Es braucht aber immer noch Massnahmen zur Umsetzung der neuen Verfassungsbestimmung.",
+          "page": 17
+        },
+        {
+          "quote_de": "Die Einführung der Individualbesteuerung ist auch ohne Bestimmung auf Verfassungsstufe möglich. In zeitlicher Hinsicht führt der Weg über die Gesetzgebung schneller zum Ziel.",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Individualbesteuerung auf die Belastungsrelationen bei Ehepaaren mit unterschiedlichen Einkommensaufteilungen laut der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Bei einer Einkommensaufteilung von 60/40 ist die Summe der Steuerbelastungen im Reformszenario in vielen Fällen deutlich niedriger als im Status quo. Neben der gleichmässigen Einkommensaufteilung trägt auch die Tarifsenkung zur steuerlichen Entlastung bei.",
+          "page": 82
+        },
+        {
+          "quote_de": "Bei einer ungleichen Einkommensaufteilung (90/10) resultieren in den meisten dargestellten Konstellationen Mehrbelastungen. Die Tarifanpassung mindert die Mehrbelastung insbesondere bei den tiefen und mittleren Einkommen.",
+          "page": 82
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "question_de": "Welche Gründe nennt der Bundesrat für die Ablehnung der Volksinitiative «Ja zum Importverbot für Stopfleber»?",
+      "evidence": [
+        {
+          "quote_de": "Der Bundesrat lehnt die Initiative ohne direkten Gegenentwurf und indirekten Gegenvorschlag insbesondere deshalb ab, weil ein Importverbot mit den internationalen Verpflichtungen der Schweiz nicht vereinbar ist und das Risiko von Handelsstreitigkeiten beinhaltet.",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "question_de": "Wie definiert das Initiativkomitee den Begriff «Stopfleber»?",
+      "evidence": [
+        {
+          "quote_de": "Bei «Stopfleber» handelt es sich nach dem Initiativkomitee um eine durch Stopfmast verfettete Leber von Enten und Gänsen.",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hätte die Annahme der Initiative auf die Konsumentinnen und Konsumenten laut der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Da Stopfleber und Stopfleberprodukte weder in der Schweiz produziert noch eingeführt werden dürften, hätte die Annahme der Initiative Auswirkungen auf die Produkteauswahl für die Konsumentinnen und Konsumenten.",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "question_de": "Welche internationalen Rechtsvorschriften werden in der Botschaft als Grund für die Ablehnung des Importverbots genannt?",
+      "evidence": [
+        {
+          "quote_de": "Artikel XI:1 GATT untersagt quantitative Handelsbeschränkungen wie Importverbote. Artikel I:1 GATT untersagt zudem die Diskriminierung von Waren unterschiedlichen Ursprungs.",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Maßnahme hat der Bundesrat bereits in die Wege geleitet, um die Anliegen der Initiative zu berücksichtigen?",
+      "evidence": [
+        {
+          "quote_de": "Am 5. April 2023 hat der Bundesrat das EDI beauftragt, Regulierungsvorschläge u. a. für eine Deklarationspflicht für Stopfleber auszuarbeiten.",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Rolle spielt die EU-Definition bei der Auslegung von «Stopfleber» und «Stopfleberprodukten» laut der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Die Orientierung an der EU-Definition ist sinnvoll, da Stopfleber zu einem Grossteil in EU-Ländern (Frankreich, Ungarn, Bulgarien) produziert und von dort in die Schweiz eingeführt wird.",
+          "page": 8
+        }
+      ]
+    }
+  ]
+}

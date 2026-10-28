@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question_de": "Welche Ziele verfolgen die Volksinitiative «Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative)» und der indirekte Gegenvorschlag des Bundesrates?",
+      "evidence": [
+        {
+          "quote_de": "Die Ziele der Steuergerechtigkeits-Initiative und des indirekten Gegenvorschlags (Bundesgesetz über die Individualbesteuerung) sind die zivilstandsunabhängige Besteuerung und damit auch die Abschaffung der sogenannten Heiratsstrafe, die Erhöhung der Erwerbsanreize für Zweitverdienende sowie die Verbesserung der Gleichstellung von Frau und Mann.",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "question_de": "Welche finanziellen Auswirkungen erwartet der Bundesrat bei der direkten Bundessteuer durch die Einführung der Individualbesteuerung?",
+      "evidence": [
+        {
+          "quote_de": "Der Bundesrat geht bei der direkten Bundessteuer bezogen auf das Steuerjahr 2024 von schätzungsweise rund 1 Milliarde Franken Mindereinnahmen pro Jahr aus. Davon tragen der Bund rund 800 Mio. Franken und die Kantone rund 200 Mio. Franken.",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "question_de": "Wie bewerten die Vernehmlassungsteilnehmenden die Einführung der Individualbesteuerung im Vergleich zu anderen Modellen der Ehepaarbesteuerung?",
+      "evidence": [
+        {
+          "quote_de": "Einen Wechsel zur Individualbesteuerung begrüssten 4 Parteien (FDP, GLP, GPS, SPS), 5 Kantone (BE, BS, FR, LU, ZH) und 50 Organisationen. Sie waren der Ansicht, dass die Individualbesteuerung hohe Arbeitsanreize für Zweitverdienende schaffe und damit die Chancengleichheit von Frauen und Männern fördere.",
+          "page": 21
+        },
+        {
+          "quote_de": "Die Einführung einer Individualbesteuerung lehnten 3 Parteien (die Mitte, EVP, SVP), 21 Kantone (AG, AI, AR, BL, GE, GL, GR, JU, NE, NW, OW, SG, SH, SO, SZ, TG, TI, UR, VD, VS, ZG), 14 Organisationen und 3 Privatpersonen ab. Von den Gegnern der Individualbesteuerung wurde insbesondere ins Feld geführt, dass die Individualbesteuerung neue Ungleichheiten und Fehlanreize schaffe, indem sie insbesondere Eineinkommenspaare und Paare mit ungleicher Einkommensaufteilung benachteilige.",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "question_de": "Wie unterscheidet sich die Besteuerung von Ehepaaren unter dem geltenden Recht von der vorgeschlagenen Individualbesteuerung?",
+      "evidence": [
+        {
+          "quote_de": "Bei der gemeinsamen Besteuerung ist die Steuerbelastung bei Ehepaaren grundsätzlich unabhängig von der Einkommensaufteilung. Es erfolgt jedoch eine unterschiedliche Gesamtbelastung in Abhängigkeit vom Zivilstand.",
+          "page": 18
+        },
+        {
+          "quote_de": "Bei der Individualbesteuerung ergeben sich unterschiedliche Gesamtbelastungen für Ehepaare in Abhängigkeit von der Einkommensaufteilung. Die steuerliche Gesamtbelastung ist jedoch unabhängig vom Zivilstand.",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Individualbesteuerung auf die Erwerbsanreize für Zweitverdienende im Vergleich zur heutigen Gemeinschaftsbesteuerung?",
+      "evidence": [
+        {
+          "quote_de": "Die Einführung der Individualbesteuerung erhöht die Erwerbsanreize namentlich für Zweitverdienerinnen und Zweitverdiener, weil diese elastischer auf eine Veränderung der Steuerbelastung reagieren. Das grösste Potenzial für Beschäftigungseffekte besteht daher bei verheirateten Zweitverdienerinnen und Zweitverdienern.",
+          "page": 4
+        },
+        {
+          "quote_de": "In dieser Konstellation fällt mit der Individualbesteuerung im Vergleich zur heutigen gemeinsamen Besteuerung bei einer Aufnahme einer Erwerbstätigkeit oder bei einer Erhöhung des Zweiteinkommens eine deutlich niedrigere Steuerbelastung an.",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Einführung der Individualbesteuerung auf die Quellensteuer im Vergleich zum geltenden Recht?",
+      "evidence": [
+        {
+          "quote_de": "Die Quellensteuer für bestimmte Arbeitnehmerinnen und Arbeitnehmer als spezielle (Bezugs-)Form der Einkommenssteuern von Bund, Kantonen und Gemeinden wird von den Schuldnerinnen und Schuldnern der steuerbaren Leistung (z. B. Arbeitgeber, Versicherungen) in Abzug gebracht.",
+          "page": 41
+        },
+        {
+          "quote_de": "Im Grossen und Ganzen dürfte die Quellensteuer bei der Individualbesteuerung im Vergleich zum geltenden Recht etwas einfacher anzuwenden sein (vgl. dazu Ziff. 6.2.10).",
+          "page": 42
+        }
+      ]
+    }
+  ]
+}

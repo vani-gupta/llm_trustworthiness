@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "question_de": "Warum empfiehlt der Bundesrat die Ablehnung der Volksinitiative «Wahrung der schweizerischen Neutralität»?",
+      "evidence": [
+        {
+          "quote_de": "Mit dieser Botschaft beantragen wir Ihnen, die Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)» Volk und Ständen zur Abstimmung zu unterbreiten mit der Empfehlung, die Initiative abzulehnen.",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Initiative auf die sicherheitspolitische Zusammenarbeit der Schweiz laut Bundesrat?",
+      "evidence": [
+        {
+          "quote_de": "Die sicherheits- und verteidigungspolitische Zusammenarbeit würde stark eingeschränkt, was die Schwächung der Verteidigungsfähigkeit der Schweiz zur Folge hätte.",
+          "page": 2
+        },
+        {
+          "quote_de": "Die Schweiz könnte sich etwa kaum Nato-Kooperationsprojekten anschliessen, die Fachpersonal zu Abläufen und hinsichtlich ihrer Zuständigkeiten im Falle von Cyberangriffe ausbilden.",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "question_de": "Wie sieht die aktuelle rechtliche Verankerung der Neutralität in der Schweiz laut der Botschaft aus?",
+      "evidence": [
+        {
+          "quote_de": "Die geltende BV hält die Neutralität bei der Kompetenzordnung der Bundesbehörden fest und sieht vor, dass Bundesrat und Bundesversammlung «Massnahmen zur Wahrung […] der Neutralität der Schweiz» ergreifen (Art. 173 Abs. 1 Bst. a und 185 Abs. 1 BV).",
+          "page": 6
+        },
+        {
+          "quote_de": "Die BV äussert sich nicht weiter zur Frage, was die Neutralität der Schweiz ist.",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Rolle spielt die Flexibilität in der Neutralitätspraxis der Schweiz laut Bundesrat?",
+      "evidence": [
+        {
+          "quote_de": "Diese bewährte Flexibilität will die Initiative ändern: Sie will neu bestimmte inhaltliche Vorgaben für die Neutralität direkt in der Bundesverfassung festschreiben und die Übernahme von Sanktionen gegen kriegführende Staaten – ausgenommen solche der Vereinten Nationen (UNO) – sowie bestimmte Formen der sicherheitspolitischen Zusammenarbeit zukünftig verhindern.",
+          "page": 6
+        },
+        {
+          "quote_de": "Gerade diese Flexibilität ist zentral, um die Neutralität bestmöglich für die Wahrung der schweizerischen aussen- und sicherheitspolitischen Interessen zu nutzen. Sie hat sich in 175 Jahren Verfassungspraxis bewährt.",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hätte die Initiative auf die Sanktionspolitik der Schweiz laut Bundesrat?",
+      "evidence": [
+        {
+          "quote_de": "Mit dem Verbot, bestimmte Sanktionen zu übernehmen, würde der Handlungsspielraum der Schweiz stark eingeschränkt, was dazu führen könnte, dass sie ihre eigenen kurz- und langfristigen wirtschaftlichen Interessen und ihre Reputation als glaubwürdige Verfechterin einer internationalen Ordnung, die sich stets für die Einhaltung und Durchsetzung des Völkerrechts einsetzte, nicht mehr oder nicht optimal wahren könnte.",
+          "page": 25
+        },
+        {
+          "quote_de": "Konkret wäre folglich eine Übernahme von Sanktionen, wie sie seit Februar 2022 gegen Russland ergriffen werden, nicht mehr möglich.",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "question_de": "Wie sieht die aktuelle Praxis des Bundesrates zur Neutralität im Kontext von UNO-Sanktionen laut der Botschaft aus?",
+      "evidence": [
+        {
+          "quote_de": "Seit dem UNO-Beitritt 2002 ist die Schweiz zur Übernahme von UNO-Sanktionen verpflichtet. Wegen eines vorliegenden Waffenembargos durch den UNO-Sicherheitsrat gegen den Irak kam das neutralitätsrechtliche Gleichbehandlungsgebot nicht zur Anwendung, jedoch beschloss der Bundesrat insbesondere aus neutralitätspolitischen Gründen Zurückhaltung bei der Bewilligung von Exporten an die USA und Grossbritannien und führte ein erweitertes Bewilligungsverfahren ein.",
+          "page": 12
+        },
+        {
+          "quote_de": "Der Bundesrat hat die grundsätzliche Vereinbarkeit von Sanktionen mit der Neutralität immer wieder festgestellt, zum Beispiel in den Neutralitätsberichten von 1993 und 2022 oder in der Botschaft vom 20. Dezember 2000 zum Embargogesetz.",
+          "page": 21
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "questions": [
+    {
+      "question_de": "Welche Gründe nennt der Bundesrat für die Ablehnung der Umweltverantwortungsinitiative?",
+      "evidence": [
+        {
+          "quote_de": "Der von den Initiantinnen und Initianten geforderte Ansatz geht dem Bundesrat jedoch zu weit; dies gilt insbesondere für die in der Übergangsbestimmung genannte Frist von zehn Jahren.",
+          "page": 3
+        },
+        {
+          "quote_de": "Um die kurze und starre Frist einzuhalten, müsste die Schweiz rigorose Regulierungs- und Anreizmassnahmen treffen, die weitreichende und negative wirtschaftliche sowie gesellschaftliche Konsequenzen hätten.",
+          "page": 3
+        },
+        {
+          "quote_de": "Der Bundesrat empfiehlt deshalb die Initiative ohne direkten Gegenentwurf oder indirekten Gegenvorschlag zur Ablehnung.",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen auf die Wirtschaft sieht der Bundesrat bei einer Annahme der Initiative?",
+      "evidence": [
+        {
+          "quote_de": "Produkte und Vorleistungen für den Schweizer Markt müssten unter strengeren Voraussetzungen produziert werden als Produkte für den ausländischen Markt.",
+          "page": 17
+        },
+        {
+          "quote_de": "Unternehmen, die sowohl für den schweizerischen als auch für den ausländischen Markt produzieren und ihre Produktion nicht je nach Absatzland anpassen können, dürften auf dem ausländischen Markt (mit weniger strengen Produktionsvoraussetzungen) aufgrund höherer Kosten einen Wettbewerbsnachteil erleiden.",
+          "page": 17
+        },
+        {
+          "quote_de": "Die Kosten für den Import von Gütern würden ansteigen. Dies kann die Wettbewerbsfähigkeit und die Terms of Trade für Wirtschaft, welche diese Importe als Vorleistungen benötigen, verschlechtern.",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Rolle spielen die bestehenden verfassungsrechtlichen Bestimmungen zur Nachhaltigkeit in der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Mit den bestehenden Artikeln 2, 54, 73, 74, 104 und 104a BV sowie weiteren Verfassungsgrundlagen besteht eine verfassungsrechtliche Basis zur Berücksichtigung der globalen Nachhaltigkeit, was auch dem Sinn und Geist der Präambel entspricht, welche auf die Verantwortung gegenüber künftigen Generationen verweist.",
+          "page": 7
+        },
+        {
+          "quote_de": "Die bestehenden Verfassungsbestimmungen sind aus Sicht des Bundesrats ausgewogen.",
+          "page": 8
+        },
+        {
+          "quote_de": "Die BV enthält bereits zahlreiche Bestimmungen zur Nachhaltigkeit, lässt aber dem Gesetzgeber genügend Spielraum, um laufende Entwicklungen zu berücksichtigen.",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Bereiche werden in der Übergangsbestimmung der Initiative als massgeblich für die planetaren Grenzen genannt?",
+      "evidence": [
+        {
+          "quote_de": "Zudem enthält die Übergangsbestimmung in Absatz 2 eine nicht abschliessende Aufzählung der dafür massgeblichen Bereiche: Klimaveränderung, Biodiversitätsverlust, Wasserverbrauch, Bodennutzung sowie Stickstoff- und Phosphoreintrag.",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "question_de": "Welche internationalen Verpflichtungen der Schweiz könnten durch die Initiative in Frage gestellt werden?",
+      "evidence": [
+        {
+          "quote_de": "Insbesondere bei unilateralen Regelungen – wie etwa einer unverhältnismässigen Einschränkung der Inverkehrbringung besonders umweltbelastender Produkte – könnten sich Probleme bezüglich der Vereinbarkeit mit völkerrechtlichen Verträgen, insbesondere dem GATT (General Agreement on Tarifs and Trade) vom 30. Oktober 1947, dem Freihandelsabkommen mit der EU, dem Übereinkommen zur Errichtung der Europäischen Freihandelsassoziation (EFTA) vom 4. Januar 1960 und weiteren Freihandelsabkommen ergeben.",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen auf die Gesellschaft sieht der Bundesrat bei einer Annahme der Initiative?",
+      "evidence": [
+        {
+          "quote_de": "Obwohl die Initiative zugunsten zukünftiger Generationen wirken will und eine sozialverträgliche Ausgestaltung verlangt, wären die Auswirkungen auf die Gesellschaft problematisch, weil die kurze Übergangsfrist starke und rasche Anpassungen in Konsum und Wirtschaft bedingen würde.",
+          "page": 16
+        },
+        {
+          "quote_de": "Änderungen von Konsumgewohnheiten müssten innerhalb von wenigen Jahren erfolgen und durchgesetzt werden. Abhängig von der Ausgestaltung der Massnahmen würde es bei besonders umweltrelevanten Produkten wie zum Beispiel in den Bereichen Ernährung, Wohnen, Mobilität und Bekleidung zu Preissteigerungen und sinkender Angebotsvielfalt kommen.",
+          "page": 16
+        },
+        {
+          "quote_de": "Dies könnte soziale Ungleichheiten gar noch verstärken.",
+          "page": 16
+        }
+      ]
+    }
+  ]
+}

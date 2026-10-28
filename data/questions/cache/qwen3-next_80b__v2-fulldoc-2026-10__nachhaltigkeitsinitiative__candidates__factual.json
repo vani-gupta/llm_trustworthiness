@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "question_de": "Welchen Grenzwert für die ständige Wohnbevölkerung der Schweiz verlangt die Volksinitiative «Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative)» bis zum Jahr 2050?",
+      "evidence": [
+        {
+          "quote_de": "Die ständige Wohnbevölkerung der Schweiz darf zehn Millionen Menschen vor dem Jahr 2050 nicht überschreiten. Ab 2050 kann der Bundesrat den Grenzwert jährlich durch Verordnung um den Geburtenüberschuss anpassen.",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Massnahme sieht die Volksinitiative «Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative)» vor, wenn die ständige Wohnbevölkerung der Schweiz zwei Jahre lang die Zehn-Millionen-Grenze überschreitet?",
+      "evidence": [
+        {
+          "quote_de": "Ist der Grenzwert gemäss Artikel 73a Absatz 1 nach Ablauf von zwei Jahren seit seiner erstmaligen Überschreitung noch nicht wieder eingehalten und konnten bis dahin keine Ausnahme- oder Schutzklauseln ausgehandelt oder angerufen werden, mit denen die Einhaltung des Grenzwertes gemäss Artikel 73a Absatz 1 erreicht wird, so ist auch das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Personenfreizügigkeitsabkommen) auf den nächstmöglichen Termin zu kündigen.",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "question_de": "Wie viele Asylgesuche wurden im Jahr 2024 in der Schweiz gestellt, und wie hoch war der prozentuale Rückgang im Vergleich zu 2023?",
+      "evidence": [
+        {
+          "quote_de": "Im Jahr 2024 wurden in der Schweiz 27 740 Asylgesuche gestellt, was einen Rückgang um 8,2 Prozent gegenüber 2023 darstellt (30 223 Asylgesuche).",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Massnahme hat der Bundesrat im Rahmen der «Gesamtstrategie Asyl» beauftragt, um die Zahl der Asylgesuche zu reduzieren?",
+      "evidence": [
+        {
+          "quote_de": "Mit einem vorgelagerten Verfahren zur Prüfung, ob die Voraussetzungen für die Prüfung eines Asylgesuchs erfüllt sind, könnte vermieden werden, dass Personen mit asylfremden Motiven die Asylstrukturen in Anspruch nehmen.",
+          "page": 74
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hätte eine Kündigung des Freizügigkeitsabkommens (FZA) auf die Bilateralen I gemäss der Guillotine-Klausel?",
+      "evidence": [
+        {
+          "quote_de": "Eine Kündigung des FZA würde wegen der Guillotine-Klausel (Art. 25 Abs. 4 FZA) zum Wegfall der Bilateralen I führen. Durch die Guillotine-Klausel treten bei einer Kündigung des FZA sechs Monate nach der Notifikation alle von dieser Klausel betroffenen Abkommen der Bilateralen I automatisch ausser Kraft.",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Massnahmen hat der Bundesrat im Jahr 2024 beschlossen, um die Istanbul-Konvention umzusetzen?",
+      "evidence": [
+        {
+          "quote_de": "Der Bundesrat hat am 27. November 2024 beschlossen, die Änderungen auf den 1. Januar 2025 in Kraft zu setzen und den Vorbehalt zu Artikel 59 der Istanbul-Konvention auf den 1. Januar 2025 zurückzuziehen.",
+          "page": 58
+        }
+      ]
+    }
+  ]
+}

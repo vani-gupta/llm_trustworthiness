@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "question_de": "Welchen Betrag an zusätzlichen Ausgaben für die AHV prognostiziert der Bundesrat für das Jahr 2032 bei Annahme der Volksinitiative «Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)»?",
+      "evidence": [
+        {
+          "quote_de": "Eine zusätzliche AHV-Altersrente beziehungsweise eine Erhöhung der Renten um 8,33 Prozent würde die Ausgaben der AHV im Jahr 2032 um rund 5 Milliarden Franken erhöhen.",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Finanzierungsquelle schlagen die Initiantinnen und Initianten für den Zuschlag auf die AHV-Altersrente vor?",
+      "evidence": [
+        {
+          "quote_de": "Das Initiativkomitee macht den Vorschlag, für die Finanzierung des Mehraufwandes für den Zuschlag die Lohnbeiträge der Arbeitnehmerinnen und Arbeitnehmer sowie der Arbeitgeberinnen zu erhöhen oder einen Teil der Gewinne der Nationalbank zu verwenden.",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "question_de": "Wie viele gültige Unterschriften wurden für die Volksinitiative «Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)» gesammelt?",
+      "evidence": [
+        {
+          "quote_de": "Mit der Verfügung vom 22. Juni 2021 stellte die Bundeskanzlei fest, dass die Initiative mit 101 793 gültigen Unterschriften zustande gekommen ist.",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Massnahme zur AHV-Reform wurde vom Parlament am 17. Dezember 2021 beschlossen?",
+      "evidence": [
+        {
+          "quote_de": "Das Parlament hat am 17. Dezember 2021 die Reformvorlage AHV 21 in der Schlussabstimmung angenommen und folgende Massnahmen beschlossen: Der Zeitpunkt des Rentenbezugs kann freier gewählt werden, indem der Übergang in den Ruhestand ab 63 und bis 70 Jahren schrittweise erfolgen kann.",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "question_de": "Wie viele Prozent der AHV-Rentenbezügerinnen und -bezüger (ohne rentenbeziehende Partner oder Partnerinnen) erhalten laut der Syntheseerhebung soziale Sicherheit und Arbeitsmarkt (SESAM) 2019 eine Maximalrente?",
+      "evidence": [
+        {
+          "quote_de": "So erhalten in der Schweiz beispielsweise 26 Prozent der AHV-Rentenbezügerinnen und -bezüger (ohne rentenbeziehende Partner oder Partnerinnen) eine Maximalrente und 58 Prozent der Ehepaare eine plafonierte Maximalrente (Stand 2021).",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkung hätte die Annahme der Initiative auf das Umlagedefizit der AHV im Jahr 2032 gemäss der geltenden Ordnung?",
+      "evidence": [
+        {
+          "quote_de": "Bei einer Annahme der Initiative würde sich das Umlagedefizit im Jahr 2032 auf rund 8,7 Milliarden Franken belaufen (vgl. Anhang 2).",
+          "page": 10
+        }
+      ]
+    }
+  ]
+}

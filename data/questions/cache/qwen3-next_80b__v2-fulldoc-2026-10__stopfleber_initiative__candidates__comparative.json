@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question_de": "Wie unterscheidet sich die Position des Initiativkomitees zur Vereinbarkeit eines Importverbots für Stopfleber mit internationalen Handelsverpflichtungen von der Einschätzung des Bundesrates?",
+      "evidence": [
+        {
+          "quote_de": "Ein Einfuhrverbot für Stopfleber und Stopfleberprodukte sei mit den internationalen Handelsverpflichtungen der Schweiz vereinbar. Alle Abkommen sähen Ausnahmen für Massnahmen vor, die zum Schutz der öffentlichen Sittlichkeit und des Lebens oder der Gesundheit von Tieren erforderlich seien.",
+          "page": 7
+        },
+        {
+          "quote_de": "Insgesamt ist davon auszugehen, dass ein Einfuhrverbot für Stopfleber und Stopfleberprodukte ohne vorherige mildere Massnahmen (z. B. einer Deklarationspflicht) nicht verhältnismässig ist und zu einer ungerechtfertigten Handelsbeschränkung führt, womit es gegen das GATT und das TBT-Übereinkommen verstösst.",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen auf die Konsumentinnen und Konsumenten sieht der Bundesrat bei einer Annahme der Stopfleber-Initiative im Vergleich zur aktuellen Situation?",
+      "evidence": [
+        {
+          "quote_de": "Da Stopfleber und Stopfleberprodukte weder in der Schweiz produziert noch eingeführt werden dürften, hätte die Annahme der Initiative Auswirkungen auf die Produkteauswahl für die Konsumentinnen und Konsumenten.",
+          "page": 10
+        },
+        {
+          "quote_de": "Angesichts fehlender gleichwertiger Alternativen hätte ein Importverbot zur Folge, dass der Stopfleberkonsum in der Schweiz verunmöglicht würde.",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "question_de": "Welche unterschiedlichen Auswirkungen auf die Kantone und den Bund sieht der Bundesrat bei einer Annahme der Stopfleber-Initiative?",
+      "evidence": [
+        {
+          "quote_de": "Es ist mit keinen nennenswerten finanziellen oder personellen Auswirkungen auf die Kantone zu rechnen.",
+          "page": 10
+        },
+        {
+          "quote_de": "Die Auswirkungen im Rahmen der Vollzugsaufgaben sowie die finanziellen Auswirkungen wären vergleichsweise gering. Da der Bund in der Regel für die Kontrolle der Ein-, Durch- und Ausfuhr zuständig ist, wäre gleichwohl mit einem erhöhten Kontroll- und Vollzugsaufwand zu rechnen, insbesondere in den ersten Jahren nach Inkrafttreten.",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "question_de": "Wie bewertet der Bundesrat die Auswirkungen einer Annahme der Stopfleber-Initiative auf den internationalen Handel im Vergleich zu den bestehenden Handelsabkommen?",
+      "evidence": [
+        {
+          "quote_de": "Ein Einfuhrverbot für Stopfleber und Stopfleberprodukte würde sich auf die internationalen Verpflichtungen der Schweiz auswirken (vgl. Ziff. 4.4). Handelsstreitigkeiten mit den Handelspartnern der Schweiz oder Sanktionen wären möglich.",
+          "page": 10
+        },
+        {
+          "quote_de": "Das bilaterale Landwirtschaftsabkommen Schweiz–EU verpflichtet die Schweiz zudem zur Einräumung von Zollzugeständnissen für eine jährliche Menge von 20 Tonnen an Fettlebern von Enten oder Gänsen aus der EU (Landwirtschaftsabkommen, Anhang 1).",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "question_de": "Welche unterschiedlichen Ansätze zur Regulierung von Stopfleber werden im Bundesrat beschrieben, und wie bewertet der Bundesrat diese im Vergleich zueinander?",
+      "evidence": [
+        {
+          "quote_de": "Der Bundesrat ist deshalb bestrebt, eine Lösung zu finden, die einerseits die Anliegen des Tierschutzes berücksichtigt, anderseits aber mit den internationalen Verpflichtungen der Schweiz vereinbar ist. Die vorhandenen Rechtsgrundlagen lassen dies zu (vgl. den Entscheid des Bundesrates vom 5. April 2023 betreffend Deklarationspflicht für Froschschenkel und Stopfleber sowie Importverbot für bestimmte Pelzprodukte).",
+          "page": 9
+        },
+        {
+          "quote_de": "Verordnungsrevisionen, welche die Deklaration der Zwangsfütterung von Gänsen oder Enten vorsehen, hat der Bundesrat bereits in die Wege geleitet. Diese werden dazu beitragen, den Informationsstand der Konsumentinnen und Konsumenten über die Gewinnung von Stopfleber und Stopfleberprodukten zu verbessern, was zur Folge haben könnte, dass der Konsum an Stopfleber, Magret und Confit reduziert wird.",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "question_de": "Wie unterscheidet sich die aktuelle Situation bezüglich der Produktion von Stopfleber in der Schweiz von der Situation bei der Einfuhr von Stopfleber aus dem Ausland?",
+      "evidence": [
+        {
+          "quote_de": "In der Schweiz ist das Stopfen beim Hausgeflügel verboten (Art. 20 Bst. e der Tierenschutzverordnung vom 23. April 2008), weshalb in der Schweiz auch keine Stopfleber produziert wird.",
+          "page": 4
+        },
+        {
+          "quote_de": "Die Einfuhr von Stopfleber und Stopfleberprodukten aus dem Ausland wird durch das geltende Verbot des Stopfens nicht tangiert und ist somit erlaubt.",
+          "page": 4
+        }
+      ]
+    }
+  ]
+}

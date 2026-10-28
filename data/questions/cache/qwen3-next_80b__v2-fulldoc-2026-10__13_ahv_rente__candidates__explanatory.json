@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "question_de": "Welche Auswirkungen hätte die Annahme der Volksinitiative «Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)» auf die AHV-Finanzen im Jahr 2032?",
+      "evidence": [
+        {
+          "quote_de": "Eine zusätzliche AHV-Altersrente beziehungsweise eine Erhöhung der Renten um 8,33 Prozent würde die Ausgaben der AHV im Jahr 2032 um rund 5 Milliarden Franken erhöhen.",
+          "page": 11
+        },
+        {
+          "quote_de": "Da aufgrund der höheren Ausgaben der AHV auch der Beitrag des Bundes und somit die Einnahmen der AHV um rund 1 Milliarde Franken stiegen, würde sich das Umlageergebnis nicht in der gleichen Höhe, sondern um knapp 4 Milliarden Franken verschlechtern.",
+          "page": 11
+        },
+        {
+          "quote_de": "Bei einer Annahme der Initiative würde sich das Umlagedefizit im Jahr 2032 auf rund 8,7 Milliarden Franken belaufen (vgl. Anhang 2).",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "question_de": "Wie begründet das Initiativkomitee die Notwendigkeit eines Zuschlags auf die AHV-Altersrenten?",
+      "evidence": [
+        {
+          "quote_de": "Für einen bedeutenden Teil der Bevölkerung, insbesondere Frauen, werde dieses Einkommen gemäss dem Initiativkomitee gar nicht oder nur in geringem Ausmass durch die Pensionskasse ergänzt.",
+          "page": 5
+        },
+        {
+          "quote_de": "Mit dem Zuschlag soll die Lücke zwischen den Altersrenten und dem Lohnindex wieder verringert werden.",
+          "page": 5
+        },
+        {
+          "quote_de": "Die Initiantinnen und Initianten stellen die Initiative auch in einen Kontext mit der 2. Säule der Altersvorsorge, der beruflichen Vorsorge nach dem Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG).",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hätte die Initiative auf die Ergänzungsleistungen gemäss dem Initiativtext?",
+      "evidence": [
+        {
+          "quote_de": "Dass der Zuschlag zu keiner Reduktion der Ergänzungsleistungen und zu keinem Verlust des Anspruchs auf diese Leistungen führen soll, widerspricht dem Grundprinzip der Bedarfsorientierung der Ergänzungsleistungen, wonach eine Gegenüberstellung aller anrechenbaren Einnahmen und anerkannten Ausgaben vorgenommen wird.",
+          "page": 11
+        },
+        {
+          "quote_de": "Es würde zudem dazu führen, dass bei der Berechnung der Ergänzungsleistungen die Einnahmen aus der AHV-Altersrente anders behandelt würden als diejenigen aus anderen Renten der 1. Säule, Renten der 2. Säule oder andere Einnahmen.",
+          "page": 11
+        },
+        {
+          "quote_de": "Bezügerinnen und Bezüger von Invaliden-, Witwen- und Witwer- sowie Waisenrenten würden also auf ungerechtfertigte Weise benachteiligt.",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Rolle spielt der Koordinationsabzug im Verhältnis zwischen AHV und beruflicher Vorsorge gemäss der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Der Koordinationsabzug im BVG ist als Vielfaches der AHV-Maximalrente definiert. Deshalb wächst er entsprechend dem Rentenindex und somit weniger stark als der Lohnindex.",
+          "page": 9
+        },
+        {
+          "quote_de": "Dadurch vergrössert sich der Teil des AHV-Lohns, der im BVG versichert ist. Dies führt schliesslich dazu, dass die BVG-Rente im Rentenalter einen grösseren Anteil des AHV-Lohns ersetzt, was einer Verbesserung der Ersatzquote entspricht.",
+          "page": 9
+        },
+        {
+          "quote_de": "Die Leistungen der obligatorischen beruflichen Vorsorge sind ebenfalls mit der AHV-Altersrente koordiniert (vgl. Ziffer 4.1 «Ersatzquote»).",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "question_de": "Wie sieht die Botschaft die Auswirkungen der Initiative auf die Generationengerechtigkeit?",
+      "evidence": [
+        {
+          "quote_de": "Ein Zuschlag für die AHV-Altersrentnerinnen und -rentner wäre auch unter dem Gesichtspunkt der Generationengerechtigkeit problematisch.",
+          "page": 19
+        },
+        {
+          "quote_de": "Denn die heutigen und die zukünftigen Erwerbstätigen werden im Verlauf der Zeit eine immer höhere Last zu tragen zu haben, damit nur schon das bisherige Leistungsniveau sichergestellt ist.",
+          "page": 19
+        },
+        {
+          "quote_de": "Ob den heutigen Altersrentnerinnen und -rentnern auf den bereits laufenden Renten zusätzlich ein Zuschlag verschafft werden soll, den diese nicht oder nur zu einem kleinen Teil finanzieren, kann deshalb unter dem Aspekt der Gerechtigkeit in Frage gestellt werden.",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Finanzierungsoptionen für die Initiative werden in der Botschaft erwähnt und wie werden sie bewertet?",
+      "evidence": [
+        {
+          "quote_de": "Das Initiativkomitee macht den Vorschlag, für die Finanzierung des Mehraufwandes für den Zuschlag die Lohnbeiträge der Arbeitnehmerinnen und Arbeitnehmer sowie der Arbeitgeberinnen zu erhöhen oder einen Teil der Gewinne der Nationalbank zu verwenden.",
+          "page": 8
+        },
+        {
+          "quote_de": "Sollte die Finanzierung gemäss dem Vorschlag der Initiantinnen und Initianten über die Verwendung eines Teils der Nationalbankgewinne erfolgen, würde dies ohne Verfassungsänderung ebenfalls den Bund belasten.",
+          "page": 20
+        },
+        {
+          "quote_de": "Erhöhung der Beiträge: Falls die Finanzierung über höhere Beiträge erfolgen würde, würden die Lohnnebenkosten ansteigen.",
+          "page": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "question_de": "Wie hoch sind die geschätzten Mindereinnahmen bei der direkten Bundessteuer durch die Einführung der Individualbesteuerung im Steuerjahr 2024?",
+      "evidence": [
+        {
+          "quote_de": "Bei der direkten Bundessteuer ergeben sich geschätzte Mindereinnahmen von 1 Milliarde Franken (Stand Steuerjahr 2024). Davon entfallen rund 800 Millionen Franken auf den Bund und rund 200 Millionen Franken auf die Kantone.",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Erhöhung des Kinderabzugs bei der direkten Bundessteuer wird im indirekten Gegenvorschlag vorgeschlagen?",
+      "evidence": [
+        {
+          "quote_de": "Der Kinderabzug wird bei der direkten Bundessteuer von heute 6700 auf neu 12 000 Franken erhöht.",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Anzahl Steuererklärungen wird gesamtschweizerisch durch die Einführung der Individualbesteuerung zusätzlich verarbeitet?",
+      "evidence": [
+        {
+          "quote_de": "Gesamtschweizerisch ist mit zusätzlichen ca. 1,7 Millionen Steuererklärungen zu rechnen.",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Parteien haben in der Vernehmlassung die Einführung der Individualbesteuerung unterstützt?",
+      "evidence": [
+        {
+          "quote_de": "Einen Wechsel zur Individualbesteuerung begrüssten 4 Parteien (FDP, GLP, GPS, SPS), 5 Kantone (BE, BS, FR, LU, ZH) und 50 Organisationen.",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Individualbesteuerung auf die Quellensteuer in Bezug auf Tarifcodes?",
+      "evidence": [
+        {
+          "quote_de": "Es müssen Tarifcodes angepasst und bisherige Tarifcodes gestrichen werden (z. B. derjenige für Zweiverdienerinnen und Zweiverdiener).",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Individualbesteuerung auf die Belastungsrelationen bei Ehepaaren mit einer 90/10-Einkommensaufteilung ohne Kinder?",
+      "evidence": [
+        {
+          "quote_de": "Mehrbelastungen bei Ehepaaren mit einer 90/10-Einkommensaufteilung ohne Kinder entstehen ab einem Gesamteinkommen des Ehepaars von rund 30 000 Franken.",
+          "page": 82
+        }
+      ]
+    }
+  ]
+}

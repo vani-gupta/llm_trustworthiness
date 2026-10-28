@@ -1,0 +1,75 @@
+{
+  "model_name": "qwen3-next:80b",
+  "model_digest": "b2ebb986e4e960bb3f2d636472a466b4027939c4d8d9a62fc82bed8ebfd1ae19",
+  "ollama_version": "0.24.0",
+  "parameter_size": "79.7B",
+  "quantization_level": "Q4_K_M",
+  "capabilities": [
+    "completion",
+    "tools",
+    "thinking"
+  ],
+  "model_max_context": 262144,
+  "model_default_parameters": "top_k                          20\ntop_p                          0.95\nrepeat_penalty                 1\nstop                           \"<|im_start|>\"\nstop                           \"<|im_end|>\"\ntemperature                    0.6",
+  "num_ctx_used": 114688,
+  "seed": 42,
+  "think": false,
+  "think_flag_accepted": true,
+  "temperature_generation": 0.2,
+  "temperature_selection": 0.0,
+  "temperature_translation": 0.0,
+  "max_output_tokens": {
+    "generation": 8000,
+    "selection": 2000,
+    "translation": 600
+  },
+  "candidates_per_type": 6,
+  "quota": {
+    "factual": 4,
+    "explanatory": 3,
+    "comparative": 3
+  },
+  "allow_partial_evidence": true,
+  "duplicate_jaccard_threshold": 0.8,
+  "prompt_version": "v2-fulldoc-2026-10",
+  "input_mode": "full document per prompt, [PAGE n] markers",
+  "documents": [
+    {
+      "document_id": "13_ahv_rente",
+      "title": "Botschaft zur Volksinitiative «Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)»",
+      "pages": 28,
+      "characters": 74703
+    },
+    {
+      "document_id": "umweltverantwortungsinitiative",
+      "title": "Botschaft zur Volksinitiative «Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative)»",
+      "pages": 20,
+      "characters": 50122
+    },
+    {
+      "document_id": "steuergerechtigkeits_initiative",
+      "title": "Botschaft zur Volksinitiative «Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative)» und zum indirekten Gegenvorschlag (Bundesgesetz über die Individualbesteuerung)",
+      "pages": 108,
+      "characters": 274951
+    },
+    {
+      "document_id": "stopfleber_initiative",
+      "title": "Botschaft zur Volksinitiative «Ja zum Importverbot für Stopfleber (Stopfleber-Initiative)»",
+      "pages": 16,
+      "characters": 44034
+    },
+    {
+      "document_id": "nachhaltigkeitsinitiative",
+      "title": "Botschaft zur Volksinitiative «Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative)»",
+      "pages": 110,
+      "characters": 299015
+    },
+    {
+      "document_id": "neutralitaetsinitiative",
+      "title": "Botschaft zur Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)»",
+      "pages": 30,
+      "characters": 80586
+    }
+  ],
+  "run_finished_utc": "2026-10-28T05:44:13.754815+00:00"
+}

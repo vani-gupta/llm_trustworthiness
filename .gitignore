@@ -1,0 +1,14 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+
+# Raw source corpus
+data/pdfs/
+data/extracted_text/
+
+# Intermediate question-generation candidates
+data/questions/question_candidates_*.csv

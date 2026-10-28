@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question_de": "Welche Unterschriftenzahl wurde von der Bundeskanzlei für die Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)» als gültig bestätigt?",
+      "evidence": [
+        {
+          "quote_de": "Mit Verfügung vom 28. Mai 2024 stellte die Bundeskanzlei fest, dass die Initiative mit 129 806 gültigen Unterschriften zustande gekommen ist.",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "question_de": "Welche beiden Haager Abkommen aus dem Jahr 1907 kodifizierten das Neutralitätsrecht, auf das die Schweiz 1910 beitrat?",
+      "evidence": [
+        {
+          "quote_de": "Das Neutralitätsrecht entwickelte sich im Laufe des 19. Jahrhunderts als Völkergewohnheitsrecht und wurde 1907 in zwei Haager Abkommen kodifiziert. Die Schweiz ist den Abkommen 1910 beigetreten.",
+          "page": 6
+        },
+        {
+          "quote_de": "Abkommen vom 18. Oktober 1907 betreffend die Rechte und Pflichten der neutralen Mächte und Personen im Falle eines Landkriegs (V. Haager Abkommen; SR 0.515.21), und Abkommen vom 18. Oktober 1907 betreffend die Rechte und Pflichten der neutralen Mächte im Falle eines Seekriegs (XIII. Haager Abkommen; SR 0.515.22).",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Entscheidung traf der Bundesrat 2002 bezüglich des UNO-Beitritts der Schweiz und der Neutralität?",
+      "evidence": [
+        {
+          "quote_de": "Dies hielt die Schweiz 2002 anlässlich ihres Beitritts zur UNO fest, indem sie in ihrem Beitrittsgesuch ausdrücklich auf die Beibehaltung ihrer Neutralität hinwies und damit ihre parallelen Pflichten aus dem Neutralitätsrecht und der UNO-Charta verbriefte.",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Bedingungen müssen erfüllt sein, damit die Schweiz gemäss Initiativtext eine Zusammenarbeit mit Militär- oder Verteidigungsbündnissen zulassen kann?",
+      "evidence": [
+        {
+          "quote_de": "Vorbehalten ist eine Zusammenarbeit mit solchen Bündnissen für den Fall eines direkten militärischen Angriffs auf die Schweiz oder für den Fall von Handlungen zur Vorbereitung eines solchen Angriffs.",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Initiative gemäss Bundesrat auf die sicherheitspolitische Zusammenarbeit der Schweiz?",
+      "evidence": [
+        {
+          "quote_de": "Die Annahme der Initiative würde einen sicherheitspolitischen Kurswechsel bedeuten. Die sicherheits- und verteidigungspolitische Zusammenarbeit würde stark eingeschränkt.",
+          "page": 23
+        },
+        {
+          "quote_de": "Viele Kooperationsprojekte mit Verteidigungsbündnissen betreffen zivil und militärisch relevante Bereiche.",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Sanktionen hat die Schweiz gemäss der Botschaft im Jahr 2022 im Zusammenhang mit dem russischen Angriff auf die Ukraine übernommen?",
+      "evidence": [
+        {
+          "quote_de": "Daher entschied der Bundesrat, entsprechend seiner völkerrechtlichen Verpflichtungen und bisherigen Praxis, die schweren Verletzungen des Völkerrechts durch Russland scharf zu verurteilen und die von der EU ergriffenen Sanktionen zu übernehmen.",
+          "page": 13
+        }
+      ]
+    }
+  ]
+}

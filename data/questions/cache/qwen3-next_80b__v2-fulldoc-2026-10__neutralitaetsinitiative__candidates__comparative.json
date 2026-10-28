@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "question_de": "Wie beschreibt die Botschaft den Unterschied zwischen der gegenwärtigen Neutralitätspraxis und dem Vorschlag der Neutralitätsinitiative hinsichtlich der Flexibilität bei der Anwendung der Neutralität?",
+      "evidence": [
+        {
+          "quote_de": "Die Initiative fordert eine Abkehr von der bewährten Flexibilität bei der Anwendung der Neutralität, was im heutigen volatilen internationalen Umfeld nicht zielführend ist.",
+          "page": 2
+        },
+        {
+          "quote_de": "Mit der neuen Verankerung der Neutralität als Grundsatz der Aussenpolitik reduziert sich der Spielraum für eine flexible Nutzung der Neutralität, da sie nicht mehr als Instrument zur Erreichung von aussen-, sicherheits- und wirtschaftspolitischen Zielen eingesetzt werden könnte.",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Neutralitätsinitiative auf die sicherheitspolitische Zusammenarbeit der Schweiz mit Militär- und Verteidigungsbündnissen, gemäss der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Die Annahme der Initiative würde einen sicherheitspolitischen Kurswechsel bedeuten. Die sicherheits- und verteidigungspolitische Zusammenarbeit würde stark eingeschränkt.",
+          "page": 23
+        },
+        {
+          "quote_de": "Viele Kooperationsprojekte mit Verteidigungsbündnissen betreffen zivil und militärisch relevante Bereiche. Weil die Schweiz technisch und materiell von dieser Zusammenarbeit profitiert, hätte dies auch eine Schwächung der Verteidigungsfähigkeit der Schweiz zur Folge.",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "question_de": "Wie unterscheidet sich die Position des Bundesrates zur Übernahme von Sanktionen von der Forderung der Neutralitätsinitiative?",
+      "evidence": [
+        {
+          "quote_de": "Der Bundesrat unterstreicht auch in der Aussenpolitischen Strategie 2024–2027, dass die Schweiz auch als neutraler Staat europäische Mitverantwortung wahrnehmen kann und will.",
+          "page": 25
+        },
+        {
+          "quote_de": "Mit Annahme der Initiative wäre die Übernahme von Sanktionen der OSZE, der EU oder weiterer wichtiger Handelspartner gegen kriegsführende Staaten ausgeschlossen.",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Rolle spielt die Neutralität für die Guten Dienste der Schweiz gemäss der Botschaft, und wie wird dies in der Initiative behandelt?",
+      "evidence": [
+        {
+          "quote_de": "Bereits heute entspricht die Forderung des Initiativkomitees, dass die Schweiz ihre Vermittlerrolle wahrnimmt und die Neutralität zur Friedenssicherung nutzt, der bundesrätlichen Praxis.",
+          "page": 22
+        },
+        {
+          "quote_de": "Die Neutralität ist jedoch keine unverzichtbare Voraussetzung für die Erbringung dieser Aktivitäten. Politisches Gewicht, multilaterale Kompetenzen, Diskretion und Erfahrungen mit kultureller Vielfalt sind zunehmend wichtige Faktoren für das Leisten von Guten Diensten.",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "question_de": "Wie beurteilt die Botschaft die Auswirkungen der Neutralitätsinitiative auf die Sanktionspolitik der Schweiz im Vergleich zur aktuellen Praxis?",
+      "evidence": [
+        {
+          "quote_de": "Mit dem Verbot, bestimmte Sanktionen zu übernehmen, würde der Handlungsspielraum der Schweiz stark eingeschränkt, was dazu führen könnte, dass sie ihre eigenen kurz- und langfristigen wirtschaftlichen Interessen und ihre Reputation als glaubwürdige Verfechterin einer internationalen Ordnung, die sich stets für die Einhaltung und Durchsetzung des Völkerrechts einsetzte, nicht mehr oder nicht optimal wahren könnte.",
+          "page": 25
+        },
+        {
+          "quote_de": "Unklar ist, ob unter dem Regime der neuen Verfassungsbestimmung bereits früher angeordnete Embargomassnahmen weitergeführt werden dürften oder aufzuheben wären.",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "question_de": "Welche Auswirkungen hat die Neutralitätsinitiative auf die Verteidigungsfähigkeit der Schweiz gemäss der Botschaft?",
+      "evidence": [
+        {
+          "quote_de": "Weil die Schweiz technisch und materiell von dieser Zusammenarbeit profitiert, hätte dies auch eine Schwächung der Verteidigungsfähigkeit der Schweiz zur Folge. Angesichts der verschlechterten Sicherheitslage in Europa und der rasanten Technologieentwicklung sind der Austausch, Übungen und gemeinsame Ausbildungen sowie Beschaffungen mit sicherheitspolitischen Partnern für die Schweiz unabdingbar.",
+          "page": 23
+        },
+        {
+          "quote_de": "Es liegt im Interesse der Schweiz, dass sie ihre Sicherheits- und Verteidigungspolitik konsequenter als bislang auf die internationale Zusammenarbeit ausrichtet, um die eigene Handlungs- und Verteidigungsfähigkeit zu wahren und einen Beitrag zur Sicherheit des regionalen Umfelds zu leisten.",
+          "page": 24
+        }
+      ]
+    }
+  ]
+}
