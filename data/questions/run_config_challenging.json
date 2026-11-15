@@ -1,0 +1,24 @@
+{
+  "batch_id": "challenging-v1",
+  "prompt_version": "challenging-v1-2026-10",
+  "model_name": "qwen3-next:80b",
+  "model_digest": "b2ebb986e4e960bb3f2d636472a466b4027939c4d8d9a62fc82bed8ebfd1ae19",
+  "ollama_version": "0.24.0",
+  "num_ctx": 114688,
+  "seed": 42,
+  "think": false,
+  "temperature": {
+    "generation": 0.3,
+    "selection": 0.0,
+    "translation": 0.0
+  },
+  "quota_per_subtype_and_document": {
+    "loaded_framing": 2,
+    "colloquial_indirect": 2
+  },
+  "candidates_per_subtype": 5,
+  "max_verbatim_4gram_share": 0.25,
+  "n_new_questions": 23,
+  "calls_this_run": 44,
+  "finished_utc": "2026-10-29T12:45:55.652487+00:00"
+}

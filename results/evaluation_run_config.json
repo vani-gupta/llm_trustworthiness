@@ -1,0 +1,95 @@
+{
+  "judge_model": "qwen3-next:80b",
+  "judge_digest": "b2ebb986e4e9",
+  "judge_max_ctx": 262144,
+  "num_ctx": 126976,
+  "temperature": 0.0,
+  "seed": 42,
+  "think": false,
+  "max_output_tokens": 12000,
+  "prompt_version": "judge-v17-2026-11",
+  "ollama_version": "0.24.0",
+  "answer_file": "../data/answers/answers_all.csv",
+  "n_answers": 75,
+  "models_evaluated": [
+    "Llama 3.3 70B"
+  ],
+  "pilot_answers_per_document": null,
+  "aggregation": {
+    "coverage_value": {
+      "covered": 1.0,
+      "partial": 0.5,
+      "missing": 0.0
+    },
+    "completeness": "part level: a part takes the best coverage value of its requirements; answer score = mean over parts",
+    "neutrality_overall": {
+      "rule": "worst axis rating; a rating without a listed issue counts as none",
+      "mapping": {
+        "none": 5,
+        "not_applicable": 5,
+        "minor": 4,
+        "clear": 3,
+        "severe": 1
+      }
+    },
+    "groundedness_bounds": {
+      "max_passages": 4,
+      "max_quote_chars": 1000,
+      "max_explanation_chars": 1000
+    },
+    "max_parts": {
+      "factual": 1,
+      "comparative": 3,
+      "explanatory": 3,
+      "challenging": 3
+    },
+    "proportion_labels": [
+      [
+        0.9,
+        "high"
+      ],
+      [
+        0.6,
+        "medium"
+      ],
+      [
+        0.0,
+        "low"
+      ]
+    ],
+    "max_claims": 25,
+    "max_requirements": {
+      "factual": 2,
+      "comparative": 3,
+      "explanatory": 3,
+      "challenging": 4
+    }
+  },
+  "coherence": {
+    "method": "rule-based defects per 100 words, no LLM",
+    "languagetool": "de-CH",
+    "lt_categories": [
+      "CASING",
+      "COMPOUNDING",
+      "CONFUSED_WORDS",
+      "GRAMMAR",
+      "TYPOS"
+    ],
+    "lt_ignore_rules": [
+      "UPPERCASE_SENTENCE_START"
+    ],
+    "wordfreq_min_zipf": 1.0,
+    "compound_part_zipf": 2.0,
+    "repetition_jaccard": 0.8
+  },
+  "metric_direction": {
+    "groundedness_score": "higher_is_better",
+    "comp_score": "higher_is_better",
+    "neut_score": "higher_is_better",
+    "rel_score": "higher_is_better",
+    "coherence_defects": "lower_is_better"
+  },
+  "blinding": "no model name; the requirement checklist is generated from question and Botschaft (no answer); coverage receives question/answer/checklist only; groundedness and neutrality receive the Botschaft where required",
+  "failed_calls": 0,
+  "saved_at_utc": "2026-11-15T15:18:23.400620+00:00"
+}

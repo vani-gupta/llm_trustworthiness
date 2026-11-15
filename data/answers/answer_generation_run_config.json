@@ -1,0 +1,100 @@
+{
+  "question_file": "../data/questions/question_set_frozen.xlsx",
+  "n_questions": 75,
+  "pilot_questions_per_document": null,
+  "n_answers_per_question": 1,
+  "models": [
+    {
+      "key": "llama33_70b",
+      "label": "Llama 3.3 70B",
+      "ollama_tag": "llama3.3:70b",
+      "digest": "a6eb4748fd2990ad2952b2335a95a7f952d1a06119a0aa6a2df6cd052a93a3fa",
+      "parameter_size": "70.6B",
+      "quantization": "Q4_K_M",
+      "capabilities": [
+        "completion",
+        "tools"
+      ],
+      "max_ctx": 131072,
+      "num_ctx": 106496,
+      "model_defaults": "stop                           \"<|start_header_id|>\"\nstop                           \"<|end_header_id|>\"\nstop                           \"<|eot_id|>\""
+    }
+  ],
+  "temperature": 0.0,
+  "seed": 42,
+  "think": null,
+  "max_output_tokens": 2000,
+  "request_page_references": true,
+  "prompt_version": "answers-v1-fulldoc-2026-10",
+  "input_mode": "full document in system message, [PAGE n] markers",
+  "ollama_version": "0.24.0",
+  "answer_translation": {
+    "model": "llama3.3:70b",
+    "prompt_version": "translate-answers-v1-2026-10",
+    "glossary": [
+      [
+        "Botschaft",
+        "dispatch (the official English term for a Botschaft of the Federal Council; never 'message')"
+      ],
+      [
+        "Bundesrat",
+        "Federal Council"
+      ],
+      [
+        "Bundesversammlung",
+        "Federal Assembly"
+      ],
+      [
+        "Volksinitiative",
+        "popular initiative"
+      ],
+      [
+        "Initiativkomitee",
+        "initiative committee"
+      ],
+      [
+        "Gegenentwurf",
+        "counter-proposal"
+      ],
+      [
+        "Stimmberechtigte",
+        "eligible voters"
+      ]
+    ],
+    "used_for_evaluation": false
+  },
+  "documents": [
+    {
+      "document_id": "13_ahv_rente",
+      "pages": 28,
+      "characters": 74703
+    },
+    {
+      "document_id": "nachhaltigkeitsinitiative",
+      "pages": 110,
+      "characters": 299015
+    },
+    {
+      "document_id": "neutralitaetsinitiative",
+      "pages": 30,
+      "characters": 80586
+    },
+    {
+      "document_id": "steuergerechtigkeits_initiative",
+      "pages": 108,
+      "characters": 274951
+    },
+    {
+      "document_id": "stopfleber_initiative",
+      "pages": 16,
+      "characters": 44034
+    },
+    {
+      "document_id": "umweltverantwortungsinitiative",
+      "pages": 20,
+      "characters": 50122
+    }
+  ],
+  "run_started_utc": "2026-11-02T13:16:45.038446+00:00",
+  "run_finished_utc": "2026-11-02T14:36:27.334017+00:00"
+}
