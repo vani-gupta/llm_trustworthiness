@@ -22,9 +22,8 @@ llm_trustworthiness/
 │   ├── 01_collect_and_prepare_botschaften.ipynb
 │   └── 02_generate_question_set_ollama.ipynb
 │   ├── 03_generate_answers_ollama.ipynb
-│   ├── 04_
-│   ├── 05_
-│   ├── 06_
+│   ├── 04_evaluation_pipeline
+│   ├── 05_report_generation
 │   ├── # Other Supporting scripts
 ├── data/
 │   ├── pdfs/             # Downloaded source PDFs (excluded from Git)
@@ -32,8 +31,6 @@ llm_trustworthiness/
 │   ├── manifests/        # Source metadata and corpus manifest
 │   ├── questions/        # Generated and curated question sets
 │   ├── answers/          # LLM-generated answers
-│   └── evaluations/      # Evaluation outputs
-├── prompts/              # Prompts for generation and evaluation
 ├── results/              # Analysis outputs, figures, and tables
 ├── .gitignore
 └── README.md
