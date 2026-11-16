@@ -1,0 +1,6 @@
+﻿,Groundedness,Completeness,Neutrality,Relevance,Coherence defects
+Groundedness,1.0,0.284,0.336,-0.019,0.06
+Completeness,0.284,1.0,-0.094,0.24,0.037
+Neutrality,0.336,-0.094,1.0,-0.087,0.034
+Relevance,-0.019,0.24,-0.087,1.0,-0.4
+Coherence defects,0.06,0.037,0.034,-0.4,1.0

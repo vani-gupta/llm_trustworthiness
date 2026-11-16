@@ -1,0 +1,12 @@
+﻿item,value
+Answers evaluated,75
+Models,Llama 3.3 70B
+Documents (Botschaften),6
+Question types,"comparative, explanatory, factual, challenging"
+Judge model,qwen3-next:80b
+Judge digest,b2ebb986e4e9
+Judge prompt version,judge-v17-2026-11
+Judge temperature / seed,0.0 / 42
+Judge reasoning mode (think),False
+Judge context (num_ctx),126976
+Judge runs per answer,1

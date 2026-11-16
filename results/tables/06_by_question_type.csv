@@ -1,0 +1,21 @@
+﻿criterion,question_type,model,n,mean,median
+Groundedness,comparative,Llama 3.3 70B,15,0.9639,1.0
+Groundedness,explanatory,Llama 3.3 70B,15,1.0,1.0
+Groundedness,factual,Llama 3.3 70B,22,0.8864,1.0
+Groundedness,challenging,Llama 3.3 70B,23,0.7906,1.0
+Completeness,comparative,Llama 3.3 70B,15,1.0,1.0
+Completeness,explanatory,Llama 3.3 70B,15,0.9333,1.0
+Completeness,factual,Llama 3.3 70B,22,1.0,1.0
+Completeness,challenging,Llama 3.3 70B,23,0.9094,1.0
+Neutrality,comparative,Llama 3.3 70B,15,4.9333,5.0
+Neutrality,explanatory,Llama 3.3 70B,15,5.0,5.0
+Neutrality,factual,Llama 3.3 70B,22,5.0,5.0
+Neutrality,challenging,Llama 3.3 70B,23,4.5652,5.0
+Relevance,comparative,Llama 3.3 70B,15,5.0,5.0
+Relevance,explanatory,Llama 3.3 70B,15,4.4667,5.0
+Relevance,factual,Llama 3.3 70B,22,5.0,5.0
+Relevance,challenging,Llama 3.3 70B,23,4.6087,5.0
+Coherence (defects),comparative,Llama 3.3 70B,15,0.0,0.0
+Coherence (defects),explanatory,Llama 3.3 70B,15,0.0127,0.0
+Coherence (defects),factual,Llama 3.3 70B,22,0.0,0.0
+Coherence (defects),challenging,Llama 3.3 70B,23,0.0,0.0

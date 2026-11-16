@@ -1,0 +1,8 @@
+﻿criterion,failure_type,model,n
+coherence,language_error,Llama 3.3 70B,1
+completeness,missing,Llama 3.3 70B,2
+completeness,partial,Llama 3.3 70B,6
+groundedness,not_supported,Llama 3.3 70B,32
+groundedness,unclear,Llama 3.3 70B,1
+neutrality,escalation_framing,Llama 3.3 70B,1
+neutrality,personal_political_expression,Llama 3.3 70B,5

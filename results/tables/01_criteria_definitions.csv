@@ -1,0 +1,6 @@
+﻿criterion,answer-level score,scale,evidence unit
+Groundedness,share of the answer's claims that the Botschaft supports (a claim judged unclear counts as not supported),0-1,claim
+Completeness,"share of the parts of the question that the answer covers (covered 1, partial 0.5, missing 0); a part counts as answered if at least one of its requirements is covered",0-1,question part
+Neutrality,"derived from the worst of four axis ratings: none or not applicable 5, minor 4, clear 3, severe 1",1-5,axis / answer
+Relevance,answers what the question asks,1-5,answer
+Coherence,"language errors, spelling flags and repeated sentences per 100 words (rule-based, no LLM); lower is better",defects per 100 words,defect

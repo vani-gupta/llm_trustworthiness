@@ -1,0 +1,2 @@
+﻿criterion,model,claim_pooled (micro),answer_mean (primary),document_mean (macro),n_claims,mean_claims_per_answer
+Groundedness,Llama 3.3 70B,0.9018,0.8952,0.8951,336,4.48

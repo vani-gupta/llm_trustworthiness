@@ -1,0 +1,7 @@
+﻿document_id,document,Groundedness,Completeness,Neutrality,Relevance,Coherence (defects),model,n_answers
+13_ahv_rente,Botschaft zur Volksinitiative «Fü…,1.0,0.9583,4.8333,5.0,0.0,Llama 3.3 70B,12
+nachhaltigkeitsinitiative,Botschaft zur Volksinitiative «Ke…,0.8485,0.9091,5.0,3.9091,0.0174,Llama 3.3 70B,11
+neutralitaetsinitiative,Botschaft zur Volksinitiative «Wa…,0.8196,1.0,4.6923,4.8462,0.0,Llama 3.3 70B,13
+steuergerechtigkeits_initiative,Botschaft zur Volksinitiative «Fü…,0.9062,0.9097,5.0,5.0,0.0,Llama 3.3 70B,12
+stopfleber_initiative,Botschaft zur Volksinitiative «Ja…,0.8645,1.0,5.0,5.0,0.0,Llama 3.3 70B,13
+umweltverantwortungsinitiative,Botschaft zur Volksinitiative «Fü…,0.9315,0.9643,4.6429,4.7857,0.0,Llama 3.3 70B,14

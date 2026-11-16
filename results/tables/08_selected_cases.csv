@@ -1,0 +1,11 @@
+﻿answer_id,model,document,question_type,selected_because
+llama33_70b__nachhaltigkeitsinitiative_C03__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,challenging,random
+llama33_70b__stopfleber_initiative_Q04__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ja…,explanatory,random
+llama33_70b__steuergerechtigkeits_initiative_C04__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Fü…,challenging,"lowest source fidelity, unsupported claims"
+llama33_70b__neutralitaetsinitiative_Q08__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Wa…,factual,lowest source fidelity
+llama33_70b__umweltverantwortungsinitiative_Q10__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Fü…,factual,highest source fidelity
+llama33_70b__13_ahv_rente_C02__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Fü…,challenging,neutrality 3 or lower
+llama33_70b__neutralitaetsinitiative_C02__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Wa…,challenging,neutrality 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_Q05__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,explanatory,relevance 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_Q06__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,explanatory,relevance 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_C02__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,challenging,unsupported claims

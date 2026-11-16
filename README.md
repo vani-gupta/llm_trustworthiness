@@ -23,7 +23,7 @@ llm_trustworthiness/
 │   └── 02_generate_question_set_ollama.ipynb
 │   ├── 03_generate_answers_ollama.ipynb
 │   ├── 04_evaluation_pipeline
-│   ├── 05_report_generation
+│   ├── 05_results_report
 │   ├── # Other Supporting scripts
 ├── data/
 │   ├── pdfs/             # Downloaded source PDFs (excluded from Git)
@@ -38,19 +38,19 @@ llm_trustworthiness/
 
 ## Tools and Technologies
 
-- **Python** — data processing, document preparation, and evaluation.
-- **Jupyter Notebook / JupyterHub** — interactive research workflows.
-- **Ollama** — local LLM inference and model management.
+- **Python** — data processing, document preparation, evaluation and statistical analysis.
+- **Jupyter Notebook / JupyterHub** — interactive research workflows, with one notebook per pipeline stage.
+- **Ollama** — local LLM inference and model management, including JSON-schema-constrained structured output.
 - **Qwen3-next:80b** — question-set generation.
 - **Llama 3.3 70B** — answer generation.
-- **Apertus** — an additional answer-generation model, subject to availability.
 - **Qwen3-next:80b** — independent LLM-based evaluation.
-- **pandas** — structured data processing and CSV management.
+- **LanguageTool (language_tool_python, de-CH)** — rule-based detection of grammar, casing and spelling errors for the coherence criterion.
+- **wordfreq** — German word-frequency list used to accept valid compounds and technical terms in the spelling check.
+- **pandas and NumPy** — structured data processing, CSV management and document-level bootstrap intervals.
+- **Matplotlib** — figures and the standalone HTML results report.
 - **PyMuPDF** — PDF text extraction.
-- **Requests and cURL** — source-document retrieval and interaction with the Fedlex SPARQL endpoint.
+- **Requests and cURL** — source-document retrieval, interaction with the Fedlex SPARQL endpoint and calls to the Ollama interface.
 - **Git and GitHub** — version control and project management.
-
-Model assignments reflect the current experimental setup and may change during the research.
 
 ## Research Workflow
 

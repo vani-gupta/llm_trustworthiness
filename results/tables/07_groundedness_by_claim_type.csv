@@ -1,0 +1,4 @@
+﻿model,claim_type,claims,share_supported
+Llama 3.3 70B,attribution,266,0.891
+Llama 3.3 70B,fact,69,0.9565
+Llama 3.3 70B,own_evaluation,1,0.0
