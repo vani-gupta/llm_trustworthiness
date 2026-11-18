@@ -31,7 +31,8 @@ llm_trustworthiness/
 │   ├── manifests/        # Source metadata and corpus manifest
 │   ├── questions/        # Generated and curated question sets
 │   ├── answers/          # LLM-generated answers
-├── results/              # Analysis outputs, figures, and tables
+├── outputs/              # Analysis outputs, figures, and tables
+├── results/              # Evaluation results (.csv, .json)
 ├── .gitignore
 └── README.md
 ```
