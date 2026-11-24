@@ -18,6 +18,38 @@
       "max_ctx": 131072,
       "num_ctx": 106496,
       "model_defaults": "stop                           \"<|start_header_id|>\"\nstop                           \"<|end_header_id|>\"\nstop                           \"<|eot_id|>\""
+    },
+    {
+      "key": "llama_31_8B",
+      "label": "Llama 3.1 8B",
+      "ollama_tag": "llama3.1:8b",
+      "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+      "parameter_size": "8.0B",
+      "quantization": "Q4_K_M",
+      "capabilities": [
+        "completion",
+        "tools"
+      ],
+      "max_ctx": 131072,
+      "num_ctx": 106496,
+      "model_defaults": "stop                           \"<|start_header_id|>\"\nstop                           \"<|end_header_id|>\"\nstop                           \"<|eot_id|>\""
+    },
+    {
+      "key": "gemma_4_31b",
+      "label": "Gemma 4 31B",
+      "ollama_tag": "gemma4:31b",
+      "digest": "6316f0629137b426c9d9b853ffc4c8209589f30ee39aebede6285096c0ff47e7",
+      "parameter_size": "31.3B",
+      "quantization": "Q4_K_M",
+      "capabilities": [
+        "completion",
+        "vision",
+        "tools",
+        "thinking"
+      ],
+      "max_ctx": 262144,
+      "num_ctx": 106496,
+      "model_defaults": "temperature                    1\ntop_k                          64\ntop_p                          0.95"
     }
   ],
   "temperature": 0.0,
@@ -95,6 +127,6 @@
       "characters": 50122
     }
   ],
-  "run_started_utc": "2026-11-02T13:16:45.038446+00:00",
-  "run_finished_utc": "2026-11-02T14:36:27.334017+00:00"
+  "run_started_utc": "2026-11-24T20:22:54.002511+00:00",
+  "run_finished_utc": "2026-11-24T21:06:13.883637+00:00"
 }
