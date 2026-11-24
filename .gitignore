@@ -6,9 +6,6 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 
-# Raw source corpus
-data/pdfs/
-data/extracted_text/
-
-# Intermediate question-generation candidates
+# Intermediate question-generation candidates and cache
 data/questions/question_candidates_*.csv
+data/questions/cache/
