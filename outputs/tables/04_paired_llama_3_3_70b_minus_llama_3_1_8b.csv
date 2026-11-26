@@ -1,0 +1,6 @@
+﻿first_model,second_model,criterion,scale,n_pairs,mean_first,mean_second,mean_diff,ci_low,ci_high,first_better_or_higher,ties,second_better_or_higher,sign_test_p,wilcoxon_p,effect_dz
+Llama 3.3 70B,Llama 3.1 8B,Groundedness,0-1,75,0.8952,0.7885,0.1067,0.0367,0.1825,27,38,10,0.0076,0.0144,0.2882
+Llama 3.3 70B,Llama 3.1 8B,Completeness,0-1,75,0.9589,0.87,0.0889,0.0192,0.1599,11,61,3,0.0574,0.0081,0.3064
+Llama 3.3 70B,Llama 3.1 8B,Neutrality,1-5,75,4.8533,4.9067,-0.0533,-0.1538,0.0541,3,67,5,0.7266,0.5703,-0.0903
+Llama 3.3 70B,Llama 3.1 8B,Relevance,1-5,75,4.7733,4.7867,-0.0133,-0.2571,0.16,3,68,4,1.0,1.0,-0.0171
+Llama 3.3 70B,Llama 3.1 8B,Coherence (defects),defects per 100 words (lower is better),75,0.0025,0.1836,-0.181,-0.4039,-0.0188,1,65,9,0.0215,0.0039,-0.2108

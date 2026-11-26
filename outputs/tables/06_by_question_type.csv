@@ -1,21 +1,61 @@
-﻿criterion,question_type,model,n,mean,median
-Groundedness,comparative,Llama 3.3 70B,15,0.9639,1.0
-Groundedness,explanatory,Llama 3.3 70B,15,1.0,1.0
-Groundedness,factual,Llama 3.3 70B,22,0.8864,1.0
-Groundedness,challenging,Llama 3.3 70B,23,0.7906,1.0
-Completeness,comparative,Llama 3.3 70B,15,1.0,1.0
-Completeness,explanatory,Llama 3.3 70B,15,0.9333,1.0
-Completeness,factual,Llama 3.3 70B,22,1.0,1.0
-Completeness,challenging,Llama 3.3 70B,23,0.9094,1.0
-Neutrality,comparative,Llama 3.3 70B,15,4.9333,5.0
-Neutrality,explanatory,Llama 3.3 70B,15,5.0,5.0
-Neutrality,factual,Llama 3.3 70B,22,5.0,5.0
-Neutrality,challenging,Llama 3.3 70B,23,4.5652,5.0
-Relevance,comparative,Llama 3.3 70B,15,5.0,5.0
-Relevance,explanatory,Llama 3.3 70B,15,4.4667,5.0
-Relevance,factual,Llama 3.3 70B,22,5.0,5.0
-Relevance,challenging,Llama 3.3 70B,23,4.6087,5.0
-Coherence (defects),comparative,Llama 3.3 70B,15,0.0,0.0
-Coherence (defects),explanatory,Llama 3.3 70B,15,0.0127,0.0
-Coherence (defects),factual,Llama 3.3 70B,22,0.0,0.0
-Coherence (defects),challenging,Llama 3.3 70B,23,0.0,0.0
+﻿model,criterion,question_type,n,mean,median
+Llama 3.3 70B,Groundedness,comparative,15,0.9639,1.0
+Llama 3.1 8B,Groundedness,comparative,15,0.8113,1.0
+Gemma 4 31B,Groundedness,comparative,15,0.9314,0.95
+Llama 3.3 70B,Groundedness,explanatory,15,1.0,1.0
+Llama 3.1 8B,Groundedness,explanatory,15,0.8513,1.0
+Gemma 4 31B,Groundedness,explanatory,15,0.936,1.0
+Llama 3.3 70B,Groundedness,factual,22,0.8864,1.0
+Llama 3.1 8B,Groundedness,factual,22,0.8636,1.0
+Gemma 4 31B,Groundedness,factual,22,0.8682,1.0
+Llama 3.3 70B,Groundedness,challenging,23,0.7906,1.0
+Llama 3.1 8B,Groundedness,challenging,23,0.6608,0.8
+Gemma 4 31B,Groundedness,challenging,23,0.9337,1.0
+Llama 3.3 70B,Completeness,comparative,15,1.0,1.0
+Llama 3.1 8B,Completeness,comparative,15,0.8667,1.0
+Gemma 4 31B,Completeness,comparative,15,1.0,1.0
+Llama 3.3 70B,Completeness,explanatory,15,0.9333,1.0
+Llama 3.1 8B,Completeness,explanatory,15,1.0,1.0
+Gemma 4 31B,Completeness,explanatory,15,0.9667,1.0
+Llama 3.3 70B,Completeness,factual,22,1.0,1.0
+Llama 3.1 8B,Completeness,factual,22,0.9318,1.0
+Gemma 4 31B,Completeness,factual,22,0.9773,1.0
+Llama 3.3 70B,Completeness,challenging,23,0.9094,1.0
+Llama 3.1 8B,Completeness,challenging,23,0.7283,1.0
+Gemma 4 31B,Completeness,challenging,23,0.9529,1.0
+Llama 3.3 70B,Neutrality,comparative,15,4.9333,5.0
+Llama 3.1 8B,Neutrality,comparative,15,5.0,5.0
+Gemma 4 31B,Neutrality,comparative,15,5.0,5.0
+Llama 3.3 70B,Neutrality,explanatory,15,5.0,5.0
+Llama 3.1 8B,Neutrality,explanatory,15,4.8667,5.0
+Gemma 4 31B,Neutrality,explanatory,15,5.0,5.0
+Llama 3.3 70B,Neutrality,factual,22,5.0,5.0
+Llama 3.1 8B,Neutrality,factual,22,5.0,5.0
+Gemma 4 31B,Neutrality,factual,22,5.0,5.0
+Llama 3.3 70B,Neutrality,challenging,23,4.5652,5.0
+Llama 3.1 8B,Neutrality,challenging,23,4.7826,5.0
+Gemma 4 31B,Neutrality,challenging,23,5.0,5.0
+Llama 3.3 70B,Relevance,comparative,15,5.0,5.0
+Llama 3.1 8B,Relevance,comparative,15,5.0,5.0
+Gemma 4 31B,Relevance,comparative,15,5.0,5.0
+Llama 3.3 70B,Relevance,explanatory,15,4.4667,5.0
+Llama 3.1 8B,Relevance,explanatory,15,4.8667,5.0
+Gemma 4 31B,Relevance,explanatory,15,5.0,5.0
+Llama 3.3 70B,Relevance,factual,22,5.0,5.0
+Llama 3.1 8B,Relevance,factual,22,5.0,5.0
+Gemma 4 31B,Relevance,factual,22,4.8636,5.0
+Llama 3.3 70B,Relevance,challenging,23,4.6087,5.0
+Llama 3.1 8B,Relevance,challenging,23,4.3913,5.0
+Gemma 4 31B,Relevance,challenging,23,4.8261,5.0
+Llama 3.3 70B,Coherence (defects),comparative,15,0.0,0.0
+Llama 3.1 8B,Coherence (defects),comparative,15,0.1747,0.0
+Gemma 4 31B,Coherence (defects),comparative,15,0.2008,0.0
+Llama 3.3 70B,Coherence (defects),explanatory,15,0.0127,0.0
+Llama 3.1 8B,Coherence (defects),explanatory,15,0.1443,0.0
+Gemma 4 31B,Coherence (defects),explanatory,15,0.1339,0.0
+Llama 3.3 70B,Coherence (defects),factual,22,0.0,0.0
+Llama 3.1 8B,Coherence (defects),factual,22,0.0345,0.0
+Gemma 4 31B,Coherence (defects),factual,22,0.0207,0.0
+Llama 3.3 70B,Coherence (defects),challenging,23,0.0,0.0
+Llama 3.1 8B,Coherence (defects),challenging,23,0.3576,0.0
+Gemma 4 31B,Coherence (defects),challenging,23,0.0589,0.0

@@ -1,0 +1,10 @@
+﻿answer_id,model,document,question_type,selected_because
+gemma_4_31b__nachhaltigkeitsinitiative_C03__r1,Gemma 4 31B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,random
+gemma_4_31b__stopfleber_initiative_Q04__r1,Gemma 4 31B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,random
+gemma_4_31b__13_ahv_rente_Q10__r1,Gemma 4 31B,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),factual,lowest source fidelity
+gemma_4_31b__steuergerechtigkeits_initiative_Q09__r1,Gemma 4 31B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),factual,lowest source fidelity
+gemma_4_31b__umweltverantwortungsinitiative_Q10__r1,Gemma 4 31B,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),factual,highest source fidelity
+gemma_4_31b__nachhaltigkeitsinitiative_C01__r1,Gemma 4 31B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,relevance 3 or lower
+gemma_4_31b__neutralitaetsinitiative_Q08__r1,Gemma 4 31B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),factual,relevance 3 or lower
+gemma_4_31b__stopfleber_initiative_Q06__r1,Gemma 4 31B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,unsupported claims
+gemma_4_31b__nachhaltigkeitsinitiative_Q03__r1,Gemma 4 31B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),comparative,unsupported claims

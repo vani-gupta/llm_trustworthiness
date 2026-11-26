@@ -1,0 +1,21 @@
+﻿model,criterion,question_type,n,mean,median
+Gemma 4 31B,Groundedness,comparative,15,0.9314,0.95
+Gemma 4 31B,Groundedness,explanatory,15,0.936,1.0
+Gemma 4 31B,Groundedness,factual,22,0.8682,1.0
+Gemma 4 31B,Groundedness,challenging,23,0.9337,1.0
+Gemma 4 31B,Completeness,comparative,15,1.0,1.0
+Gemma 4 31B,Completeness,explanatory,15,0.9667,1.0
+Gemma 4 31B,Completeness,factual,22,0.9773,1.0
+Gemma 4 31B,Completeness,challenging,23,0.9529,1.0
+Gemma 4 31B,Neutrality,comparative,15,5.0,5.0
+Gemma 4 31B,Neutrality,explanatory,15,5.0,5.0
+Gemma 4 31B,Neutrality,factual,22,5.0,5.0
+Gemma 4 31B,Neutrality,challenging,23,5.0,5.0
+Gemma 4 31B,Relevance,comparative,15,5.0,5.0
+Gemma 4 31B,Relevance,explanatory,15,5.0,5.0
+Gemma 4 31B,Relevance,factual,22,4.8636,5.0
+Gemma 4 31B,Relevance,challenging,23,4.8261,5.0
+Gemma 4 31B,Coherence (defects),comparative,15,0.2008,0.0
+Gemma 4 31B,Coherence (defects),explanatory,15,0.1339,0.0
+Gemma 4 31B,Coherence (defects),factual,22,0.0207,0.0
+Gemma 4 31B,Coherence (defects),challenging,23,0.0589,0.0

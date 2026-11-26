@@ -1,0 +1,6 @@
+﻿criterion,scale,model,n,mean,ci_low,ci_high,ci_low_answers_iid,ci_high_answers_iid,median,q25,q75,share_top_score,at_ceiling,share_below_0.8,share_ge_4,wilson_low,wilson_high,share_le_2,share_with_defect
+Groundedness,0-1,Llama 3.3 70B,75,0.8952,0.8505,0.9447,0.8358,0.9461,1.0,1.0,1.0,0.7867,False,0.16,,,,,
+Completeness,0-1,Llama 3.3 70B,75,0.9589,0.9281,0.9872,0.9244,0.9867,1.0,1.0,1.0,0.9067,True,0.0933,,,,,
+Neutrality,1-5,Llama 3.3 70B,75,4.8533,4.7308,4.9726,4.7333,4.96,5.0,5.0,5.0,0.92,True,,0.9333,0.8532,0.9712,0.0,
+Relevance,1-5,Llama 3.3 70B,75,4.7733,4.4384,4.9733,4.5867,4.9333,5.0,5.0,5.0,0.92,True,,0.92,0.8363,0.9628,0.0667,
+Coherence (defects),defects per 100 words (lower is better),Llama 3.3 70B,75,0.0025,0.0,0.0081,0.0,0.0076,0.0,0.0,0.0,0.9867,True,,,,,,0.0133

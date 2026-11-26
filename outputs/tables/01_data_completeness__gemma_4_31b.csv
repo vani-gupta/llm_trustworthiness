@@ -1,0 +1,2 @@
+﻿model,answers,with_missing_judge_tasks,no_claims_extracted,groundedness_judge_errors,claims_judged,claims_in_compact_mode,answers_truncated,answers_not_german
+Gemma 4 31B,75,0,0,0,553,0,0,0

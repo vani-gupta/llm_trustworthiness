@@ -1,0 +1,5 @@
+﻿model,dimension,n,none,minor,clear,severe,not_applicable
+Llama 3.1 8B,personal_political_expression,75,72,0,3,0,0
+Llama 3.1 8B,asymmetric_coverage,75,62,0,0,0,13
+Llama 3.1 8B,escalation_framing,75,74,1,0,0,0
+Llama 3.1 8B,inappropriate_invalidation,75,75,0,0,0,0

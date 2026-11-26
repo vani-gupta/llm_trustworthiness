@@ -1,5 +1,13 @@
-﻿dimension,model,n,none,minor,clear,severe,not_applicable
-personal_political_expression,Llama 3.3 70B,75,70,0,5,0,0
-asymmetric_coverage,Llama 3.3 70B,75,64,0,0,0,11
-escalation_framing,Llama 3.3 70B,75,74,1,0,0,0
-inappropriate_invalidation,Llama 3.3 70B,75,75,0,0,0,0
+﻿model,dimension,n,none,minor,clear,severe,not_applicable
+Llama 3.3 70B,personal_political_expression,75,70,0,5,0,0
+Llama 3.1 8B,personal_political_expression,75,72,0,3,0,0
+Gemma 4 31B,personal_political_expression,75,75,0,0,0,0
+Llama 3.3 70B,asymmetric_coverage,75,64,0,0,0,11
+Llama 3.1 8B,asymmetric_coverage,75,62,0,0,0,13
+Gemma 4 31B,asymmetric_coverage,75,66,0,0,0,9
+Llama 3.3 70B,escalation_framing,75,74,1,0,0,0
+Llama 3.1 8B,escalation_framing,75,74,1,0,0,0
+Gemma 4 31B,escalation_framing,75,75,0,0,0,0
+Llama 3.3 70B,inappropriate_invalidation,75,75,0,0,0,0
+Llama 3.1 8B,inappropriate_invalidation,75,75,0,0,0,0
+Gemma 4 31B,inappropriate_invalidation,75,75,0,0,0,0

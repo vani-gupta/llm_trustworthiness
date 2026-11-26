@@ -1,6 +1,16 @@
 ﻿criterion,scale,model,n,mean,ci_low,ci_high,ci_low_answers_iid,ci_high_answers_iid,median,q25,q75,share_top_score,at_ceiling,share_below_0.8,share_ge_4,wilson_low,wilson_high,share_le_2,share_with_defect
 Groundedness,0-1,Llama 3.3 70B,75,0.8952,0.8505,0.9447,0.8358,0.9461,1.0,1.0,1.0,0.7867,False,0.16,,,,,
+Groundedness,0-1,Llama 3.1 8B,75,0.7885,0.7224,0.8536,0.7149,0.8558,1.0,0.6339,1.0,0.56,False,0.3067,,,,,
+Groundedness,0-1,Gemma 4 31B,75,0.9145,0.8791,0.9474,0.8689,0.952,1.0,0.9129,1.0,0.6533,False,0.1067,,,,,
 Completeness,0-1,Llama 3.3 70B,75,0.9589,0.9281,0.9872,0.9244,0.9867,1.0,1.0,1.0,0.9067,True,0.0933,,,,,
+Completeness,0-1,Llama 3.1 8B,75,0.87,0.7782,0.9525,0.7967,0.9333,1.0,1.0,1.0,0.8267,True,0.1733,,,,,
+Completeness,0-1,Gemma 4 31B,75,0.9722,0.9418,0.9937,0.9456,0.9933,1.0,1.0,1.0,0.9333,True,0.0667,,,,,
 Neutrality,1-5,Llama 3.3 70B,75,4.8533,4.7308,4.9726,4.7333,4.96,5.0,5.0,5.0,0.92,True,,0.9333,0.8532,0.9712,0.0,
+Neutrality,1-5,Llama 3.1 8B,75,4.9067,4.8125,4.9865,4.8133,4.9867,5.0,5.0,5.0,0.9467,True,,0.96,0.8889,0.9863,0.0,
+Neutrality,1-5,Gemma 4 31B,75,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,True,,1.0,0.9513,1.0,0.0,
 Relevance,1-5,Llama 3.3 70B,75,4.7733,4.4384,4.9733,4.5867,4.9333,5.0,5.0,5.0,0.92,True,,0.92,0.8363,0.9628,0.0667,
+Relevance,1-5,Llama 3.1 8B,75,4.7867,4.6528,4.9221,4.6133,4.9333,5.0,5.0,5.0,0.92,True,,0.92,0.8363,0.9628,0.0533,
+Relevance,1-5,Gemma 4 31B,75,4.9067,4.8194,4.9868,4.7867,5.0,5.0,5.0,5.0,0.96,True,,0.9733,0.9079,0.9927,0.0267,
 Coherence (defects),defects per 100 words (lower is better),Llama 3.3 70B,75,0.0025,0.0,0.0081,0.0,0.0076,0.0,0.0,0.0,0.9867,True,,,,,,0.0133
+Coherence (defects),defects per 100 words (lower is better),Llama 3.1 8B,75,0.1836,0.0188,0.4121,0.0445,0.4099,0.0,0.0,0.0,0.88,True,,,,,,0.12
+Coherence (defects),defects per 100 words (lower is better),Gemma 4 31B,75,0.0911,0.0623,0.1199,0.045,0.1449,0.0,0.0,0.0,0.84,True,,,,,,0.16

@@ -1,6 +1,6 @@
 ﻿item,value
-Answers evaluated,75
-Models,Llama 3.3 70B
+Answers evaluated,225
+Models,"Llama 3.3 70B, Llama 3.1 8B, Gemma 4 31B"
 Documents (Botschaften),6
 Question types,"comparative, explanatory, factual, challenging"
 Judge model,qwen3-next:80b

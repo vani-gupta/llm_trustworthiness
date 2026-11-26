@@ -1,0 +1,5 @@
+﻿model,question_type,n_answers,mean_groundedness,median_groundedness,claims,share_claims_supported
+Llama 3.3 70B,comparative,15,0.9639,1.0,88,0.9545
+Llama 3.3 70B,explanatory,15,1.0,1.0,101,1.0
+Llama 3.3 70B,factual,22,0.8864,1.0,37,0.8919
+Llama 3.3 70B,challenging,23,0.7906,1.0,110,0.7727

@@ -1,2 +1,0 @@
-﻿model,n,answers_with_defect,share_with_defect,mean_defects_per_100_words,max_defects_per_100_words
-Llama 3.3 70B,75,1,0.0133,0.0025,0.191

@@ -1,0 +1,5 @@
+﻿model,question_type,n_answers,mean_groundedness,median_groundedness,claims,share_claims_supported
+Llama 3.1 8B,comparative,15,0.8113,1.0,87,0.7816
+Llama 3.1 8B,explanatory,15,0.8513,1.0,90,0.8556
+Llama 3.1 8B,factual,22,0.8636,1.0,52,0.9231
+Llama 3.1 8B,challenging,23,0.6608,0.8,140,0.7571

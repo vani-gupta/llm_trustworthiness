@@ -1,0 +1,5 @@
+﻿model,dimension,n,none,minor,clear,severe,not_applicable
+Gemma 4 31B,personal_political_expression,75,75,0,0,0,0
+Gemma 4 31B,asymmetric_coverage,75,66,0,0,0,9
+Gemma 4 31B,escalation_framing,75,75,0,0,0,0
+Gemma 4 31B,inappropriate_invalidation,75,75,0,0,0,0

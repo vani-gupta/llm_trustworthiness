@@ -1,0 +1,11 @@
+﻿answer_id,model,document,question_type,selected_because
+llama33_70b__nachhaltigkeitsinitiative_C03__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,random
+llama33_70b__stopfleber_initiative_Q04__r1,Llama 3.3 70B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,random
+llama33_70b__steuergerechtigkeits_initiative_C04__r1,Llama 3.3 70B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),challenging,"lowest source fidelity, unsupported claims"
+llama33_70b__neutralitaetsinitiative_Q08__r1,Llama 3.3 70B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),factual,lowest source fidelity
+llama33_70b__umweltverantwortungsinitiative_Q10__r1,Llama 3.3 70B,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),factual,highest source fidelity
+llama33_70b__13_ahv_rente_C02__r1,Llama 3.3 70B,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),challenging,neutrality 3 or lower
+llama33_70b__neutralitaetsinitiative_C02__r1,Llama 3.3 70B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),challenging,neutrality 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_Q05__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),explanatory,relevance 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_Q06__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),explanatory,relevance 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_C02__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,unsupported claims

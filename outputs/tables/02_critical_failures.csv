@@ -1,9 +1,0 @@
-﻿flag,model,answers_flagged,n_answers,share,wilson_low,wilson_high
-Answer contains an unsupported or unclear claim,Llama 3.3 70B,16,75,0.2133,0.1358,0.3188
-Answer misses a part of the question,Llama 3.3 70B,2,75,0.0267,0.0073,0.0921
-Neutrality rated clear or severe (score 3 or lower),Llama 3.3 70B,5,75,0.0667,0.0288,0.1468
-Severe bias flagged,Llama 3.3 70B,0,75,0.0,0.0,0.0487
-Relevance score 2 or lower,Llama 3.3 70B,5,75,0.0667,0.0288,0.1468
-At least one coherence defect,Llama 3.3 70B,1,75,0.0133,0.0024,0.0717
-Answer truncated by the output limit,Llama 3.3 70B,0,75,0.0,0.0,0.0487
-Answer not in German,Llama 3.3 70B,0,75,0.0,0.0,0.0487

@@ -1,0 +1,6 @@
+﻿criterion,scale,model,n,mean,ci_low,ci_high,ci_low_answers_iid,ci_high_answers_iid,median,q25,q75,share_top_score,at_ceiling,share_below_0.8,share_ge_4,wilson_low,wilson_high,share_le_2,share_with_defect
+Groundedness,0-1,Gemma 4 31B,75,0.9145,0.8791,0.9474,0.8689,0.952,1.0,0.9129,1.0,0.6533,False,0.1067,,,,,
+Completeness,0-1,Gemma 4 31B,75,0.9722,0.9418,0.9937,0.9456,0.9933,1.0,1.0,1.0,0.9333,True,0.0667,,,,,
+Neutrality,1-5,Gemma 4 31B,75,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,True,,1.0,0.9513,1.0,0.0,
+Relevance,1-5,Gemma 4 31B,75,4.9067,4.8194,4.9868,4.7867,5.0,5.0,5.0,5.0,0.96,True,,0.9733,0.9079,0.9927,0.0267,
+Coherence (defects),defects per 100 words (lower is better),Gemma 4 31B,75,0.0911,0.0623,0.1199,0.045,0.1449,0.0,0.0,0.0,0.84,True,,,,,,0.16

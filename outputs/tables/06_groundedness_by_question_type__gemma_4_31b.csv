@@ -1,0 +1,5 @@
+﻿model,question_type,n_answers,mean_groundedness,median_groundedness,claims,share_claims_supported
+Gemma 4 31B,comparative,15,0.9314,0.95,147,0.932
+Gemma 4 31B,explanatory,15,0.936,1.0,128,0.9531
+Gemma 4 31B,factual,22,0.8682,1.0,62,0.9032
+Gemma 4 31B,challenging,23,0.9337,1.0,216,0.9444

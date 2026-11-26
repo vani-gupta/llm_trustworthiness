@@ -10,8 +10,10 @@
   "prompt_version": "judge-v17-2026-11",
   "ollama_version": "0.24.0",
   "answer_file": "../data/answers/answers_all.csv",
-  "n_answers": 75,
+  "n_answers": 225,
   "models_evaluated": [
+    "Gemma 4 31B",
+    "Llama 3.1 8B",
     "Llama 3.3 70B"
   ],
   "pilot_answers_per_document": null,
@@ -91,5 +93,5 @@
   },
   "blinding": "no model name; the requirement checklist is generated from question and Botschaft (no answer); coverage receives question/answer/checklist only; groundedness and neutrality receive the Botschaft where required",
   "failed_calls": 0,
-  "saved_at_utc": "2026-11-15T15:18:23.400620+00:00"
+  "saved_at_utc": "2026-11-25T23:54:39.265069+00:00"
 }

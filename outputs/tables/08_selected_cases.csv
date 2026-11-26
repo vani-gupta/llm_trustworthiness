@@ -1,11 +1,31 @@
 ﻿answer_id,model,document,question_type,selected_because
-llama33_70b__nachhaltigkeitsinitiative_C03__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,challenging,random
-llama33_70b__stopfleber_initiative_Q04__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ja…,explanatory,random
-llama33_70b__steuergerechtigkeits_initiative_C04__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Fü…,challenging,"lowest source fidelity, unsupported claims"
-llama33_70b__neutralitaetsinitiative_Q08__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Wa…,factual,lowest source fidelity
-llama33_70b__umweltverantwortungsinitiative_Q10__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Fü…,factual,highest source fidelity
-llama33_70b__13_ahv_rente_C02__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Fü…,challenging,neutrality 3 or lower
-llama33_70b__neutralitaetsinitiative_C02__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Wa…,challenging,neutrality 3 or lower
-llama33_70b__nachhaltigkeitsinitiative_Q05__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,explanatory,relevance 3 or lower
-llama33_70b__nachhaltigkeitsinitiative_Q06__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,explanatory,relevance 3 or lower
-llama33_70b__nachhaltigkeitsinitiative_C02__r1,Llama 3.3 70B,Botschaft zur Volksinitiative «Ke…,challenging,unsupported claims
+llama33_70b__nachhaltigkeitsinitiative_C03__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,random
+llama33_70b__stopfleber_initiative_Q04__r1,Llama 3.3 70B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,random
+llama33_70b__steuergerechtigkeits_initiative_C04__r1,Llama 3.3 70B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),challenging,"lowest source fidelity, unsupported claims"
+llama33_70b__neutralitaetsinitiative_Q08__r1,Llama 3.3 70B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),factual,lowest source fidelity
+llama33_70b__umweltverantwortungsinitiative_Q10__r1,Llama 3.3 70B,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),factual,highest source fidelity
+llama33_70b__13_ahv_rente_C02__r1,Llama 3.3 70B,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),challenging,neutrality 3 or lower
+llama33_70b__neutralitaetsinitiative_C02__r1,Llama 3.3 70B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),challenging,neutrality 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_Q05__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),explanatory,relevance 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_Q06__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),explanatory,relevance 3 or lower
+llama33_70b__nachhaltigkeitsinitiative_C02__r1,Llama 3.3 70B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,unsupported claims
+llama_31_8B__nachhaltigkeitsinitiative_C03__r1,Llama 3.1 8B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,random
+llama_31_8B__stopfleber_initiative_Q04__r1,Llama 3.1 8B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,random
+llama_31_8B__steuergerechtigkeits_initiative_C01__r1,Llama 3.1 8B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),challenging,lowest source fidelity
+llama_31_8B__steuergerechtigkeits_initiative_C02__r1,Llama 3.1 8B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),challenging,lowest source fidelity
+llama_31_8B__umweltverantwortungsinitiative_Q10__r1,Llama 3.1 8B,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),factual,highest source fidelity
+llama_31_8B__steuergerechtigkeits_initiative_C03__r1,Llama 3.1 8B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),challenging,neutrality 3 or lower
+llama_31_8B__umweltverantwortungsinitiative_Q04__r1,Llama 3.1 8B,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),explanatory,neutrality 3 or lower
+llama_31_8B__13_ahv_rente_C03__r1,Llama 3.1 8B,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),challenging,relevance 3 or lower
+llama_31_8B__nachhaltigkeitsinitiative_C02__r1,Llama 3.1 8B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,relevance 3 or lower
+llama_31_8B__neutralitaetsinitiative_Q02__r1,Llama 3.1 8B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),comparative,unsupported claims
+llama_31_8B__nachhaltigkeitsinitiative_C01__r1,Llama 3.1 8B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,unsupported claims
+gemma_4_31b__nachhaltigkeitsinitiative_C03__r1,Gemma 4 31B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,random
+gemma_4_31b__stopfleber_initiative_Q04__r1,Gemma 4 31B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,random
+gemma_4_31b__13_ahv_rente_Q10__r1,Gemma 4 31B,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),factual,lowest source fidelity
+gemma_4_31b__steuergerechtigkeits_initiative_Q09__r1,Gemma 4 31B,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),factual,lowest source fidelity
+gemma_4_31b__umweltverantwortungsinitiative_Q10__r1,Gemma 4 31B,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),factual,highest source fidelity
+gemma_4_31b__nachhaltigkeitsinitiative_C01__r1,Gemma 4 31B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),challenging,relevance 3 or lower
+gemma_4_31b__neutralitaetsinitiative_Q08__r1,Gemma 4 31B,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),factual,relevance 3 or lower
+gemma_4_31b__stopfleber_initiative_Q06__r1,Gemma 4 31B,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),explanatory,unsupported claims
+gemma_4_31b__nachhaltigkeitsinitiative_Q03__r1,Gemma 4 31B,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),comparative,unsupported claims
