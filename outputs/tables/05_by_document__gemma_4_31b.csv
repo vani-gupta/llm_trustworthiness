@@ -1,7 +1,7 @@
 ﻿model,document_id,document,n_answers,Groundedness,Completeness,Neutrality,Relevance,Coherence (defects)
-Gemma 4 31B,13_ahv_rente,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),12,0.8395,0.9583,5.0,5.0,0.1318
-Gemma 4 31B,nachhaltigkeitsinitiative,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),11,0.948,0.9545,5.0,4.7273,0.0805
-Gemma 4 31B,neutralitaetsinitiative,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),13,0.9327,1.0,5.0,4.7692,0.0713
-Gemma 4 31B,steuergerechtigkeits_initiative,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),12,0.9126,0.9097,5.0,5.0,0.0823
-Gemma 4 31B,stopfleber_initiative,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),13,0.8805,1.0,5.0,5.0,0.0363
-Gemma 4 31B,umweltverantwortungsinitiative,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),14,0.9687,1.0,5.0,4.9286,0.1411
+Gemma 4 31B,13_ahv_rente,Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente),12,0.8395,0.9583,5.0,5.0,0.0
+Gemma 4 31B,nachhaltigkeitsinitiative,Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative),11,0.948,0.9545,5.0,4.7273,0.0
+Gemma 4 31B,neutralitaetsinitiative,Wahrung der schweizerischen Neutralität (Neutralitätsinitiative),13,0.9327,1.0,5.0,4.7692,0.0
+Gemma 4 31B,steuergerechtigkeits_initiative,Für eine zivilstandsunabhängige Individualbesteuerung (Steuergerechtigkeits-Initiative),12,0.9126,0.9097,5.0,5.0,0.0
+Gemma 4 31B,stopfleber_initiative,Ja zum Importverbot für Stopfleber (Stopfleber-Initiative),13,0.8805,1.0,5.0,5.0,0.0381
+Gemma 4 31B,umweltverantwortungsinitiative,Für eine verantwortungsvolle Wirtschaft innerhalb der planetaren Grenzen (Umweltverantwortungsinitiative),14,0.9687,1.0,5.0,4.9286,0.0

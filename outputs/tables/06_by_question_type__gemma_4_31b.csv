@@ -15,7 +15,7 @@ Gemma 4 31B,Relevance,comparative,15,5.0,5.0
 Gemma 4 31B,Relevance,explanatory,15,5.0,5.0
 Gemma 4 31B,Relevance,factual,22,4.8636,5.0
 Gemma 4 31B,Relevance,challenging,23,4.8261,5.0
-Gemma 4 31B,Coherence (defects),comparative,15,0.2008,0.0
-Gemma 4 31B,Coherence (defects),explanatory,15,0.1339,0.0
-Gemma 4 31B,Coherence (defects),factual,22,0.0207,0.0
-Gemma 4 31B,Coherence (defects),challenging,23,0.0589,0.0
+Gemma 4 31B,Coherence (defects),comparative,15,0.033,0.0
+Gemma 4 31B,Coherence (defects),explanatory,15,0.0,0.0
+Gemma 4 31B,Coherence (defects),factual,22,0.0,0.0
+Gemma 4 31B,Coherence (defects),challenging,23,0.0,0.0
